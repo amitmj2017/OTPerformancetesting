@@ -1,0 +1,106 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1570161532515,7484,Open CI,200,"Number of samples in transaction : 23, number of failing samples : 0",Thread Group 1-1,,true,,11479493,13573,1,1,null,0,97,0
+1570161532580,1273,https://staging1.ovationtix.com/ci/api/rest/I18n(FormError),200,OK,Thread Group 1-1,text,true,,1139,373,1,1,https://staging1.ovationtix.com/ci/api/rest/I18n(FormError),1271,0,1183
+1570161533865,4326,https://ci-staging1.ovationtix.com/40,200,OK,Thread Group 1-1,text,true,,11324230,3121,1,1,https://ci-staging1.ovationtix.com/40,331,0,288
+1570161538192,249,https://staging1.ovationtix.com/ci/api/rest/I18n(Storefront),200,OK,Thread Group 1-1,,true,,529,500,1,1,https://staging1.ovationtix.com/ci/api/rest/I18n(Storefront),249,0,182
+1570161538442,80,https://staging1.ovationtix.com/ci/api/rest/I18n(Storefront),200,OK,Thread Group 1-1,text,true,,6644,458,1,1,https://staging1.ovationtix.com/ci/api/rest/I18n(Storefront),80,0,0
+1570161538522,69,https://staging1.ovationtix.com/ci/api/rest/Context,200,OK,Thread Group 1-1,,true,,529,491,1,1,https://staging1.ovationtix.com/ci/api/rest/Context,69,0,0
+1570161538592,98,https://staging1.ovationtix.com/ci/api/rest/Context,200,OK,Thread Group 1-1,text,true,,2660,449,1,1,https://staging1.ovationtix.com/ci/api/rest/Context,84,0,0
+1570161538690,61,https://staging1.ovationtix.com/ci/api/rest/Cart,200,OK,Thread Group 1-1,,true,,529,488,1,1,https://staging1.ovationtix.com/ci/api/rest/Cart,61,0,0
+1570161538752,62,https://staging1.ovationtix.com/ci/api/rest/I18n(FormError),200,OK,Thread Group 1-1,,true,,529,499,1,1,https://staging1.ovationtix.com/ci/api/rest/I18n(FormError),62,0,0
+1570161538815,59,https://staging1.ovationtix.com/ci/api/rest/I18n(Common),200,OK,Thread Group 1-1,,true,,529,496,1,1,https://staging1.ovationtix.com/ci/api/rest/I18n(Common),59,0,0
+1570161538875,82,https://staging1.ovationtix.com/ci/api/rest/I18n(Common),200,OK,Thread Group 1-1,text,true,,1685,454,1,1,https://staging1.ovationtix.com/ci/api/rest/I18n(Common),68,0,0
+1570161538958,61,https://staging1.ovationtix.com/ci/api/rest/I18n(Login),200,OK,Thread Group 1-1,,true,,529,495,1,1,https://staging1.ovationtix.com/ci/api/rest/I18n(Login),61,0,0
+1570161539020,83,https://staging1.ovationtix.com/ci/api/rest/I18n(Login),200,OK,Thread Group 1-1,text,true,,2853,453,1,1,https://staging1.ovationtix.com/ci/api/rest/I18n(Login),68,0,0
+1570161539104,61,https://staging1.ovationtix.com/ci/api/rest/Production?expandPerformances=summary,200,OK,Thread Group 1-1,,true,,529,521,1,1,https://staging1.ovationtix.com/ci/api/rest/Production?expandPerformances=summary,61,0,0
+1570161539166,56,https://staging1.ovationtix.com/ci/api/rest/I18n(ProductionCalendar),200,OK,Thread Group 1-1,,true,,529,508,1,1,https://staging1.ovationtix.com/ci/api/rest/I18n(ProductionCalendar),56,0,0
+1570161539223,201,https://staging1.ovationtix.com/ci/api/rest/Production?expandPerformances=summary,200,OK,Thread Group 1-1,text,true,,51882,479,1,1,https://staging1.ovationtix.com/ci/api/rest/Production?expandPerformances=summary,144,0,0
+1570161539425,60,https://staging1.ovationtix.com/ci/api/rest/CheckoutQuestion,200,OK,Thread Group 1-1,,true,,529,500,1,1,https://staging1.ovationtix.com/ci/api/rest/CheckoutQuestion,60,0,0
+1570161539486,79,https://staging1.ovationtix.com/ci/api/rest/CheckoutQuestion,200,OK,Thread Group 1-1,text,true,,405,458,1,1,https://staging1.ovationtix.com/ci/api/rest/CheckoutQuestion,66,0,0
+1570161539566,79,https://staging1.ovationtix.com/ci/api/rest/DeliveryMethod,200,OK,Thread Group 1-1,text,true,,1566,456,1,1,https://staging1.ovationtix.com/ci/api/rest/DeliveryMethod,65,0,0
+1570161539646,59,https://staging1.ovationtix.com/ci/api/rest/DeliveryMethod,200,OK,Thread Group 1-1,,true,,529,498,1,1,https://staging1.ovationtix.com/ci/api/rest/DeliveryMethod,59,0,0
+1570161539705,151,https://staging1.ovationtix.com/ci/api/rest/CalendarProductions,200,OK,Thread Group 1-1,text,true,,75290,461,1,1,https://staging1.ovationtix.com/ci/api/rest/CalendarProductions,149,0,0
+1570161539856,94,https://staging1.ovationtix.com/ci/api/rest/Cart,200,OK,Thread Group 1-1,text,true,,990,446,1,1,https://staging1.ovationtix.com/ci/api/rest/Cart,79,0,0
+1570161539952,87,https://staging1.ovationtix.com/ci/api/rest/I18n(ProductionCalendar),200,OK,Thread Group 1-1,text,true,,4330,466,1,1,https://staging1.ovationtix.com/ci/api/rest/I18n(ProductionCalendar),74,0,0
+1570161540041,54,https://staging1.ovationtix.com/ci/api/rest/CalendarProductions,200,OK,Thread Group 1-1,,true,,529,503,1,1,https://staging1.ovationtix.com/ci/api/rest/CalendarProductions,54,0,0
+1570161540097,664,select event,200,"Number of samples in transaction : 4, number of failing samples : 0",Thread Group 1-1,,true,,62129,1946,1,1,null,0,2,0
+1570161540097,56,https://staging1.ovationtix.com/ci/api/rest/Production(9822)/performance?,200,OK,Thread Group 1-1,,true,,529,512,1,1,https://staging1.ovationtix.com/ci/api/rest/Production(9822)/performance,56,0,0
+1570161540154,55,https://staging1.ovationtix.com/ci/api/rest/Performance(231122),200,OK,Thread Group 1-1,,true,,529,503,1,1,https://staging1.ovationtix.com/ci/api/rest/Performance(231122),55,0,0
+1570161540210,344,https://staging1.ovationtix.com/ci/api/rest/Performance(231122),200,OK,Thread Group 1-1,text,true,,2710,461,1,1,https://staging1.ovationtix.com/ci/api/rest/Performance(231122),328,0,174
+1570161540554,209,https://staging1.ovationtix.com/ci/api/rest/Production(9822)/performance?,200,OK,Thread Group 1-1,text,true,,58361,470,1,1,https://staging1.ovationtix.com/ci/api/rest/Production(9822)/performance,106,0,0
+1570161540763,3791,choose ticket,200,"Number of samples in transaction : 26, number of failing samples : 0",Thread Group 1-1,,true,,272170,12583,1,1,null,0,24,0
+1570161540763,60,https://staging1.ovationtix.com/ci/api/rest/Cart/tickets,200,OK,Thread Group 1-1,,true,,529,497,1,1,https://staging1.ovationtix.com/ci/api/rest/Cart/tickets,60,0,0
+1570161540824,781,https://staging1.ovationtix.com/ci/api/rest/Cart/tickets,200,OK,Thread Group 1-1,text,true,,2581,626,1,1,https://staging1.ovationtix.com/ci/api/rest/Cart/tickets,734,0,0
+1570161541606,60,https://staging1.ovationtix.com/ci/api/rest/DeliveryMethod,200,OK,Thread Group 1-1,,true,,529,498,1,1,https://staging1.ovationtix.com/ci/api/rest/DeliveryMethod,60,0,0
+1570161541666,55,https://staging1.ovationtix.com/ci/api/rest/CheckoutQuestion,200,OK,Thread Group 1-1,,true,,529,500,1,1,https://staging1.ovationtix.com/ci/api/rest/CheckoutQuestion,55,0,0
+1570161541721,56,https://staging1.ovationtix.com/ci/api/rest/Production(9822)/performance?,200,OK,Thread Group 1-1,,true,,529,512,1,1,https://staging1.ovationtix.com/ci/api/rest/Production(9822)/performance,56,0,0
+1570161541777,59,https://staging1.ovationtix.com/ci/api/rest/Performance(231122),200,OK,Thread Group 1-1,,true,,529,503,1,1,https://staging1.ovationtix.com/ci/api/rest/Performance(231122),59,0,0
+1570161541837,52,https://staging1.ovationtix.com/ci/api/rest/Performance(231122),200,OK,Thread Group 1-1,,true,,529,503,1,1,https://staging1.ovationtix.com/ci/api/rest/Performance(231122),52,0,0
+1570161541889,84,https://staging1.ovationtix.com/ci/api/rest/DeliveryMethod,200,OK,Thread Group 1-1,text,true,,596,456,1,1,https://staging1.ovationtix.com/ci/api/rest/DeliveryMethod,82,0,0
+1570161541974,93,https://staging1.ovationtix.com/ci/api/rest/CheckoutQuestion,200,OK,Thread Group 1-1,text,true,,405,458,1,1,https://staging1.ovationtix.com/ci/api/rest/CheckoutQuestion,74,0,0
+1570161542068,170,https://staging1.ovationtix.com/ci/api/rest/Production(9822)/performance?,200,OK,Thread Group 1-1,text,true,,58346,470,1,1,https://staging1.ovationtix.com/ci/api/rest/Production(9822)/performance,117,0,0
+1570161542238,334,https://staging1.ovationtix.com/ci/api/rest/Performance(231122),200,OK,Thread Group 1-1,text,true,,2710,461,1,1,https://staging1.ovationtix.com/ci/api/rest/Performance(231122),317,0,182
+1570161542573,150,https://staging1.ovationtix.com/ci/api/rest/Performance(231122),200,OK,Thread Group 1-1,text,true,,2710,461,1,1,https://staging1.ovationtix.com/ci/api/rest/Performance(231122),136,0,0
+1570161542724,63,https://staging1.ovationtix.com/ci/api/rest/I18n(Checkout),200,OK,Thread Group 1-1,,true,,529,498,1,1,https://staging1.ovationtix.com/ci/api/rest/I18n(Checkout),63,0,0
+1570161542788,88,https://staging1.ovationtix.com/ci/api/rest/I18n(Checkout),200,OK,Thread Group 1-1,text,true,,3689,456,1,1,https://staging1.ovationtix.com/ci/api/rest/I18n(Checkout),75,0,0
+1570161542877,66,https://staging1.ovationtix.com/ci/api/rest/Campaign,200,OK,Thread Group 1-1,,true,,529,492,1,1,https://staging1.ovationtix.com/ci/api/rest/Campaign,66,0,0
+1570161542944,81,https://staging1.ovationtix.com/ci/api/rest/Product/,200,OK,Thread Group 1-1,,true,,529,492,1,1,https://staging1.ovationtix.com/ci/api/rest/Product/,81,0,0
+1570161543027,68,https://staging1.ovationtix.com/ci/api/rest/Cart,200,OK,Thread Group 1-1,,true,,529,488,1,1,https://staging1.ovationtix.com/ci/api/rest/Cart,68,0,0
+1570161543096,153,https://staging1.ovationtix.com/ci/api/rest/I18n(CartView),200,OK,Thread Group 1-1,,true,,529,498,1,1,https://staging1.ovationtix.com/ci/api/rest/I18n(CartView),153,0,0
+1570161543250,89,https://staging1.ovationtix.com/ci/api/rest/I18n(CartView),200,OK,Thread Group 1-1,text,true,,4028,456,1,1,https://staging1.ovationtix.com/ci/api/rest/I18n(CartView),75,0,0
+1570161543340,477,https://staging1.ovationtix.com/ci/api/rest/Campaign,200,OK,Thread Group 1-1,text,true,,179263,450,1,1,https://staging1.ovationtix.com/ci/api/rest/Campaign,222,0,0
+1570161543819,82,https://staging1.ovationtix.com/ci/api/rest/Product/,200,OK,Thread Group 1-1,text,true,,5085,450,1,1,https://staging1.ovationtix.com/ci/api/rest/Product/,68,0,0
+1570161543903,169,https://staging1.ovationtix.com/ci/api/rest/Cart,200,OK,Thread Group 1-1,text,true,,2655,446,1,1,https://staging1.ovationtix.com/ci/api/rest/Cart,169,0,0
+1570161544073,61,https://staging1.ovationtix.com/ci/api/rest/Cart/deliveryMethod,200,OK,Thread Group 1-1,,true,,529,503,1,1,https://staging1.ovationtix.com/ci/api/rest/Cart/deliveryMethod,61,0,0
+1570161544135,86,https://staging1.ovationtix.com/ci/api/rest/Cart/deliveryMethod,200,OK,Thread Group 1-1,text,true,,2753,495,1,1,https://staging1.ovationtix.com/ci/api/rest/Cart/deliveryMethod,85,0,0
+1570161544222,100,https://staging1.ovationtix.com/ci/api/rest/DeliveryMethod,200,OK,Thread Group 1-1,text,true,,596,456,1,1,https://staging1.ovationtix.com/ci/api/rest/DeliveryMethod,81,0,0
+1570161544323,254,https://staging1.ovationtix.com/ci/api/rest/CheckoutQuestion,200,OK,Thread Group 1-1,text,true,,405,458,1,1,https://staging1.ovationtix.com/ci/api/rest/CheckoutQuestion,254,0,176
+1570161544580,358,delivery method page,200,"Number of samples in transaction : 6, number of failing samples : 0",Thread Group 1-1,,true,,4206,2874,1,1,null,0,7,0
+1570161544580,50,https://staging1.ovationtix.com/ci/api/rest/Cart/validate,200,OK,Thread Group 1-1,,true,,529,497,1,1,https://staging1.ovationtix.com/ci/api/rest/Cart/validate,50,0,0
+1570161544631,62,https://staging1.ovationtix.com/ci/api/rest/Cart/validate,204,No Content,Thread Group 1-1,,true,,327,455,1,1,https://staging1.ovationtix.com/ci/api/rest/Cart/validate,0,0,0
+1570161544694,49,https://staging1.ovationtix.com/ci/api/rest/I18n(ProductUpsell),200,OK,Thread Group 1-1,,true,,529,503,1,1,https://staging1.ovationtix.com/ci/api/rest/I18n(ProductUpsell),49,0,0
+1570161544744,73,https://staging1.ovationtix.com/ci/api/rest/I18n(ProductUpsell),200,OK,Thread Group 1-1,text,true,,688,461,1,1,https://staging1.ovationtix.com/ci/api/rest/I18n(ProductUpsell),58,0,0
+1570161544819,49,https://staging1.ovationtix.com/ci/api/rest/I18n(UpsellView),200,OK,Thread Group 1-1,,true,,529,500,1,1,https://staging1.ovationtix.com/ci/api/rest/I18n(UpsellView),49,0,0
+1570161544869,75,https://staging1.ovationtix.com/ci/api/rest/I18n(UpsellView),200,OK,Thread Group 1-1,text,true,,1604,458,1,1,https://staging1.ovationtix.com/ci/api/rest/I18n(UpsellView),75,0,0
+1570161544945,783,products/donation page,200,"Number of samples in transaction : 12, number of failing samples : 0",Thread Group 1-1,,true,,37823,5722,1,1,null,0,13,0
+1570161544946,48,https://staging1.ovationtix.com/ci/api/rest/Cart/validate,200,OK,Thread Group 1-1,,true,,529,497,1,1,https://staging1.ovationtix.com/ci/api/rest/Cart/validate,48,0,0
+1570161544995,74,https://staging1.ovationtix.com/ci/api/rest/Cart/validate,204,No Content,Thread Group 1-1,,true,,327,455,1,1,https://staging1.ovationtix.com/ci/api/rest/Cart/validate,0,0,0
+1570161545071,50,https://staging1.ovationtix.com/ci/api/rest/Country,200,OK,Thread Group 1-1,,true,,529,491,1,1,https://staging1.ovationtix.com/ci/api/rest/Country,50,0,0
+1570161545122,49,https://staging1.ovationtix.com/ci/api/rest/Consumer/titles,200,OK,Thread Group 1-1,,true,,529,499,1,1,https://staging1.ovationtix.com/ci/api/rest/Consumer/titles,49,0,0
+1570161545171,47,https://staging1.ovationtix.com/ci/api/rest/I18n(ContactDetails),200,OK,Thread Group 1-1,,true,,529,504,1,1,https://staging1.ovationtix.com/ci/api/rest/I18n(ContactDetails),47,0,0
+1570161545219,67,https://staging1.ovationtix.com/ci/api/rest/I18n(ContactDetails),200,OK,Thread Group 1-1,text,true,,1072,462,1,1,https://staging1.ovationtix.com/ci/api/rest/I18n(ContactDetails),52,0,0
+1570161545287,102,https://staging1.ovationtix.com/ci/api/rest/Country,200,OK,Thread Group 1-1,text,true,,22283,449,1,1,https://staging1.ovationtix.com/ci/api/rest/Country,58,0,0
+1570161545390,66,https://staging1.ovationtix.com/ci/api/rest/Consumer/titles,200,OK,Thread Group 1-1,text,true,,9591,457,1,1,https://staging1.ovationtix.com/ci/api/rest/Consumer/titles,55,0,0
+1570161545457,52,https://staging1.ovationtix.com/ci/api/rest/Zipcode(12345),200,OK,Thread Group 1-1,,true,,529,498,1,1,https://staging1.ovationtix.com/ci/api/rest/Zipcode(12345),52,0,0
+1570161545510,100,https://staging1.ovationtix.com/ci/api/rest/Zipcode(12345),200,OK,Thread Group 1-1,text,true,,705,456,1,1,https://staging1.ovationtix.com/ci/api/rest/Zipcode(12345),94,0,0
+1570161545611,53,https://staging1.ovationtix.com/ci/api/rest/Zipcode(10045),200,OK,Thread Group 1-1,,true,,529,498,1,1,https://staging1.ovationtix.com/ci/api/rest/Zipcode(10045),53,0,0
+1570161545666,75,https://staging1.ovationtix.com/ci/api/rest/Zipcode(10045),200,OK,Thread Group 1-1,text,true,,671,456,1,1,https://staging1.ovationtix.com/ci/api/rest/Zipcode(10045),62,0,0
+1570161545742,438,address,200,"Number of samples in transaction : 6, number of failing samples : 0",Thread Group 1-1,,true,,6981,3092,1,1,null,0,7,0
+1570161545743,48,https://staging1.ovationtix.com/ci/api/rest/Cart/consumerInfo,200,OK,Thread Group 1-1,,true,,529,501,1,1,https://staging1.ovationtix.com/ci/api/rest/Cart/consumerInfo,48,0,0
+1570161545793,167,https://staging1.ovationtix.com/ci/api/rest/Cart/consumerInfo,200,OK,Thread Group 1-1,text,true,,3236,669,1,1,https://staging1.ovationtix.com/ci/api/rest/Cart/consumerInfo,152,0,0
+1570161545961,48,https://staging1.ovationtix.com/ci/api/rest/purchaseProtection,200,OK,Thread Group 1-1,,true,,529,502,1,1,https://staging1.ovationtix.com/ci/api/rest/purchaseProtection,48,0,0
+1570161546010,46,https://staging1.ovationtix.com/ci/api/rest/I18n(ReviewOrder),200,OK,Thread Group 1-1,,true,,529,501,1,1,https://staging1.ovationtix.com/ci/api/rest/I18n(ReviewOrder),46,0,0
+1570161546057,70,https://staging1.ovationtix.com/ci/api/rest/I18n(ReviewOrder),200,OK,Thread Group 1-1,text,true,,1820,459,1,1,https://staging1.ovationtix.com/ci/api/rest/I18n(ReviewOrder),68,0,0
+1570161546128,59,https://staging1.ovationtix.com/ci/api/rest/purchaseProtection,200,OK,Thread Group 1-1,,true,,338,460,1,1,https://staging1.ovationtix.com/ci/api/rest/purchaseProtection,59,0,0
+1570161546187,516,review,200,"Number of samples in transaction : 6, number of failing samples : 0",Thread Group 1-1,,true,,5813,2872,1,1,null,0,6,0
+1570161546188,45,https://staging1.ovationtix.com/ci/api/rest/I18n(PatronCredits),200,OK,Thread Group 1-1,,true,,529,503,1,1,https://staging1.ovationtix.com/ci/api/rest/I18n(PatronCredits),45,0,0
+1570161546234,68,https://staging1.ovationtix.com/ci/api/rest/I18n(PatronCredits),200,OK,Thread Group 1-1,text,true,,972,461,1,1,https://staging1.ovationtix.com/ci/api/rest/I18n(PatronCredits),54,0,0
+1570161546303,49,https://staging1.ovationtix.com/ci/api/rest/SignUpInfo,200,OK,Thread Group 1-1,,true,,529,494,1,1,https://staging1.ovationtix.com/ci/api/rest/SignUpInfo,49,0,0
+1570161546353,209,https://staging1.ovationtix.com/ci/api/rest/TermsAndConditions,200,OK,Thread Group 1-1,,true,,529,502,1,1,https://staging1.ovationtix.com/ci/api/rest/TermsAndConditions,209,0,161
+1570161546563,71,https://staging1.ovationtix.com/ci/api/rest/SignUpInfo,200,OK,Thread Group 1-1,text,true,,1589,452,1,1,https://staging1.ovationtix.com/ci/api/rest/SignUpInfo,56,0,0
+1570161546635,74,https://staging1.ovationtix.com/ci/api/rest/TermsAndConditions,200,OK,Thread Group 1-1,text,true,,1665,460,1,1,https://staging1.ovationtix.com/ci/api/rest/TermsAndConditions,57,0,0
+1570161546710,2839,payment,200,"Number of samples in transaction : 13, number of failing samples : 0",Thread Group 1-1,,true,,12603,7058,1,1,null,0,15,0
+1570161546711,51,https://staging1.ovationtix.com/ci/api/rest/OrderConsumer/validate(),200,OK,Thread Group 1-1,,true,,529,509,1,1,https://staging1.ovationtix.com/ci/api/rest/OrderConsumer/validate(),51,0,0
+1570161546763,448,https://staging1.ovationtix.com/ci/api/rest/OrderConsumer/validate(),200,OK,Thread Group 1-1,text,true,,687,677,1,1,https://staging1.ovationtix.com/ci/api/rest/OrderConsumer/validate(),448,0,0
+1570161547213,52,https://staging1.ovationtix.com/ps/restServices/consumerPaymentCORS,200,OK,Thread Group 1-1,,true,,635,447,1,1,https://staging1.ovationtix.com/ps/restServices/consumerPaymentCORS,52,0,0
+1570161547266,1421,https://staging1.ovationtix.com/ps/restServices/consumerPaymentCORS,200,OK,Thread Group 1-1,text,true,,737,813,1,1,https://staging1.ovationtix.com/ps/restServices/consumerPaymentCORS,1421,0,0
+1570161548689,250,https://staging1.ovationtix.com/ci/api/rest/OrderConsumer,200,OK,Thread Group 1-1,,true,,529,498,1,1,https://staging1.ovationtix.com/ci/api/rest/OrderConsumer,250,0,191
+1570161548940,92,https://staging1.ovationtix.com/ci/api/rest/OrderConsumer,200,OK,Thread Group 1-1,text,true,,506,666,1,1,https://staging1.ovationtix.com/ci/api/rest/OrderConsumer,73,0,0
+1570161549033,60,https://staging1.ovationtix.com/ci/api/rest/orderCompleted/,200,OK,Thread Group 1-1,,true,,529,499,1,1,https://staging1.ovationtix.com/ci/api/rest/orderCompleted/,60,0,0
+1570161549094,56,https://staging1.ovationtix.com/ci/api/rest/purchaseProtection,200,OK,Thread Group 1-1,,true,,529,502,1,1,https://staging1.ovationtix.com/ci/api/rest/purchaseProtection,56,0,0
+1570161549151,77,https://staging1.ovationtix.com/ci/api/rest/orderCompleted/,204,No Content,Thread Group 1-1,,true,,327,457,1,1,https://staging1.ovationtix.com/ci/api/rest/orderCompleted/,0,0,0
+1570161549229,56,https://staging1.ovationtix.com/ci/api/rest/Receipt(86079491435270228500)?trackingEnabled=true,200,OK,Thread Group 1-1,,true,,529,534,1,1,https://staging1.ovationtix.com/ci/api/rest/Receipt(86079491435270228500)?trackingEnabled=true,56,0,0
+1570161549286,132,https://staging1.ovationtix.com/ci/api/rest/Receipt(86079491435270228500)?trackingEnabled=true,200,OK,Thread Group 1-1,text,true,,4746,492,1,1,https://staging1.ovationtix.com/ci/api/rest/Receipt(86079491435270228500)?trackingEnabled=true,119,0,0
+1570161549419,60,https://staging1.ovationtix.com/ci/api/rest/I18n(OrderComplete),200,OK,Thread Group 1-1,,true,,529,503,1,1,https://staging1.ovationtix.com/ci/api/rest/I18n(OrderComplete),60,0,0
+1570161549479,84,https://staging1.ovationtix.com/ci/api/rest/I18n(OrderComplete),200,OK,Thread Group 1-1,text,true,,1791,461,1,1,https://staging1.ovationtix.com/ci/api/rest/I18n(OrderComplete),68,0,0
+1570161549592,1,Debug Sampler,200,OK,Thread Group 1-1,text,true,,549,0,1,1,null,0,0,0

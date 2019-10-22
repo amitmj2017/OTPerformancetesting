@@ -1,0 +1,758 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,grpThreads,allThreads,Latency,IdleTime
+1570803534384,202,getClientContext,200,OK,10.20.2.153Thread Group 1-500,,true,,606,3,3,202,0
+1570803534589,46,getI18n(FormError),200,OK,10.20.2.153Thread Group 1-500,,true,,529,3,3,46,0
+1570803534636,64,getI18n(FormError),200,OK,10.20.2.153Thread Group 1-500,text,true,,1063,3,3,64,0
+1570803534701,47,getCart,200,OK,10.20.2.153Thread Group 1-500,,true,,529,4,4,47,0
+1570803534748,47,getI18n(Common),200,OK,10.20.2.153Thread Group 1-500,,true,,529,4,4,47,0
+1570803534795,60,getI18n(Common),200,OK,10.20.2.153Thread Group 1-500,text,true,,1685,4,4,60,0
+1570803534855,57,getCart,200,OK,10.20.2.153Thread Group 1-500,text,true,,1015,4,4,57,0
+1570803534913,0,Access calendar,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Illegal character in path at index 56: https://staging1.ovationtix.com/ci/api/rest/Production(${prodId})/performance,10.20.2.153Thread Group 1-500,text,false,,1228,4,4,0,0
+1570803534916,4,Access calendar,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Illegal character in path at index 56: https://staging1.ovationtix.com/ci/api/rest/Production(${prodId})/performance,10.20.2.153Thread Group 1-500,text,false,,2713,4,4,0,0
+1570803534919,1,Debug PostProcessor,200,OK,10.20.2.153Thread Group 1-500,text,true,,1485,0,0,0,0
+1570803534931,46,Access an event,200,OK,10.20.2.153Thread Group 1-500,,true,,544,4,4,46,0
+1570803534977,63,Access an event,500,Internal Server Error,10.20.2.153Thread Group 1-500,text,false,,2949,4,4,62,0
+1570803535040,0,Debug PostProcessor,200,OK,10.20.2.153Thread Group 1-500,text,true,,1547,0,0,0,0
+1570803535043,68,getClientContext,200,OK,10.20.2.153Thread Group 1-500,text,true,,3638,4,4,66,0
+1570803535110,1,Debug PostProcessor,200,OK,10.20.2.153Thread Group 1-500,text,true,,1541,0,0,0,0
+1570803529381,704,Access calendar and event ,,"Number of samples in transaction : 12, number of failing samples : 3",10.20.2.153Thread Group 1-500,,false,,17028,4,4,697,5032
+1570803536130,130,getClientContext,200,OK,10.20.2.153Thread Group 1-499,,true,,606,4,4,130,0
+1570803536262,34,getI18n(FormError),200,OK,10.20.2.153Thread Group 1-499,,true,,529,4,4,34,0
+1570803536296,49,getI18n(FormError),200,OK,10.20.2.153Thread Group 1-499,text,true,,1063,4,4,49,0
+1570803536345,35,getCart,200,OK,10.20.2.153Thread Group 1-499,,true,,529,4,4,35,0
+1570803536380,36,getI18n(Common),200,OK,10.20.2.153Thread Group 1-499,,true,,529,4,4,36,0
+1570803536416,50,getI18n(Common),200,OK,10.20.2.153Thread Group 1-499,text,true,,1685,4,4,50,0
+1570803536466,58,getCart,200,OK,10.20.2.153Thread Group 1-499,text,true,,1015,5,5,58,0
+1570803536524,0,Access calendar,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Illegal character in path at index 56: https://staging1.ovationtix.com/ci/api/rest/Production(${prodId})/performance,10.20.2.153Thread Group 1-499,text,false,,1228,5,5,0,0
+1570803536534,1,Access calendar,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Illegal character in path at index 56: https://staging1.ovationtix.com/ci/api/rest/Production(${prodId})/performance,10.20.2.153Thread Group 1-499,text,false,,2713,5,5,0,0
+1570803536535,0,Debug PostProcessor,200,OK,10.20.2.153Thread Group 1-499,text,true,,1485,0,0,0,0
+1570803536544,35,Access an event,200,OK,10.20.2.153Thread Group 1-499,,true,,544,5,5,35,0
+1570803536579,51,Access an event,500,Internal Server Error,10.20.2.153Thread Group 1-499,text,false,,2949,5,5,50,0
+1570803536630,0,Debug PostProcessor,200,OK,10.20.2.153Thread Group 1-499,text,true,,1547,0,0,0,0
+1570803536637,54,getClientContext,200,OK,10.20.2.153Thread Group 1-499,text,true,,3640,5,5,53,0
+1570803536690,1,Debug PostProcessor,200,OK,10.20.2.153Thread Group 1-499,text,true,,1543,0,0,0,0
+1570803531122,533,Access calendar and event ,,"Number of samples in transaction : 12, number of failing samples : 3",10.20.2.153Thread Group 1-499,,false,,17030,5,5,530,5038
+1570803537925,183,getClientContext,200,OK,10.20.2.153Thread Group 1-498,,true,,606,5,5,183,0
+1570803538108,51,getI18n(FormError),200,OK,10.20.2.153Thread Group 1-498,,true,,529,5,5,51,0
+1570803538160,61,getI18n(FormError),200,OK,10.20.2.153Thread Group 1-498,text,true,,1063,5,5,61,0
+1570803538221,47,getCart,200,OK,10.20.2.153Thread Group 1-498,,true,,529,5,5,47,0
+1570803538268,47,getI18n(Common),200,OK,10.20.2.153Thread Group 1-498,,true,,529,5,5,47,0
+1570803538316,68,getI18n(Common),200,OK,10.20.2.153Thread Group 1-498,text,true,,1685,6,6,66,0
+1570803538385,60,getCart,200,OK,10.20.2.153Thread Group 1-498,text,true,,1015,6,6,60,0
+1570803538446,0,Access calendar,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Illegal character in path at index 56: https://staging1.ovationtix.com/ci/api/rest/Production(${prodId})/performance,10.20.2.153Thread Group 1-498,text,false,,1228,6,6,0,0
+1570803538447,2,Access calendar,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Illegal character in path at index 56: https://staging1.ovationtix.com/ci/api/rest/Production(${prodId})/performance,10.20.2.153Thread Group 1-498,text,false,,2711,6,6,0,0
+1570803538448,1,Debug PostProcessor,200,OK,10.20.2.153Thread Group 1-498,text,true,,1483,0,0,0,0
+1570803538453,47,Access an event,200,OK,10.20.2.153Thread Group 1-498,,true,,544,6,6,47,0
+1570803538500,63,Access an event,500,Internal Server Error,10.20.2.153Thread Group 1-498,text,false,,2949,6,6,62,0
+1570803538563,0,Debug PostProcessor,200,OK,10.20.2.153Thread Group 1-498,text,true,,1547,0,0,0,0
+1570803538575,65,getClientContext,200,OK,10.20.2.153Thread Group 1-498,text,true,,3640,6,6,63,0
+1570803538640,0,Debug PostProcessor,200,OK,10.20.2.153Thread Group 1-498,text,true,,1543,0,0,0,0
+1570803532924,694,Access calendar and event ,,"Number of samples in transaction : 12, number of failing samples : 3",10.20.2.153Thread Group 1-498,,false,,17028,6,6,687,5030
+1570803539725,128,getClientContext,200,OK,10.20.2.153Thread Group 1-497,,true,,606,6,6,128,0
+1570803539853,32,getI18n(FormError),200,OK,10.20.2.153Thread Group 1-497,,true,,529,6,6,32,0
+1570803539885,52,getI18n(FormError),200,OK,10.20.2.153Thread Group 1-497,text,true,,1063,6,6,52,0
+1570803539937,33,getCart,200,OK,10.20.2.153Thread Group 1-497,,true,,529,6,6,33,0
+1570803539971,33,getI18n(Common),200,OK,10.20.2.153Thread Group 1-497,,true,,529,6,6,33,0
+1570803540004,51,getI18n(Common),200,OK,10.20.2.153Thread Group 1-497,text,true,,1685,6,6,51,0
+1570803540055,46,getCart,200,OK,10.20.2.153Thread Group 1-497,text,true,,1015,6,6,46,0
+1570803540101,0,Access calendar,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Illegal character in path at index 56: https://staging1.ovationtix.com/ci/api/rest/Production(${prodId})/performance,10.20.2.153Thread Group 1-497,text,false,,1228,6,6,0,0
+1570803540102,0,Access calendar,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Illegal character in path at index 56: https://staging1.ovationtix.com/ci/api/rest/Production(${prodId})/performance,10.20.2.153Thread Group 1-497,text,false,,2712,6,6,0,0
+1570803540102,0,Debug PostProcessor,200,OK,10.20.2.153Thread Group 1-497,text,true,,1484,0,0,0,0
+1570803540105,33,Access an event,200,OK,10.20.2.153Thread Group 1-497,,true,,544,7,7,33,0
+1570803540138,50,Access an event,500,Internal Server Error,10.20.2.153Thread Group 1-497,text,false,,2949,7,7,49,0
+1570803540188,0,Debug PostProcessor,200,OK,10.20.2.153Thread Group 1-497,text,true,,1547,0,0,0,0
+1570803540191,55,getClientContext,200,OK,10.20.2.153Thread Group 1-497,text,true,,3640,7,7,50,0
+1570803540245,1,Debug PostProcessor,200,OK,10.20.2.153Thread Group 1-497,text,true,,1543,0,0,0,0
+1570803534724,513,Access calendar and event ,,"Number of samples in transaction : 12, number of failing samples : 3",10.20.2.153Thread Group 1-497,,false,,17029,7,7,507,5012
+1570803540126,182,Add to cart,200,OK,10.20.2.153Thread Group 1-500,,true,,529,7,7,182,0
+1570803540308,52,Add to cart,400,Bad Request,10.20.2.153Thread Group 1-500,text,false,,643,7,7,52,0
+1570803540877,147,1 /ci/api/rest/Cart,200,OK,10.20.2.153Thread Group 1-500,,true,,529,7,7,147,0
+1570803541025,50,2 /ci/api/rest/Cart,200,OK,10.20.2.153Thread Group 1-500,text,true,,918,7,7,50,0
+1570803541524,179,getClientContext,200,OK,10.20.2.153Thread Group 1-496,,true,,606,7,7,179,0
+1570803541704,45,getI18n(FormError),200,OK,10.20.2.153Thread Group 1-496,,true,,529,7,7,45,0
+1570803541749,65,getI18n(FormError),200,OK,10.20.2.153Thread Group 1-496,text,true,,1063,7,7,65,0
+1570803541701,156,Add to cart,200,OK,10.20.2.153Thread Group 1-499,,true,,529,7,7,156,0
+1570803541815,45,getCart,200,OK,10.20.2.153Thread Group 1-496,,true,,529,7,7,45,0
+1570803541858,47,Add to cart,400,Bad Request,10.20.2.153Thread Group 1-499,text,false,,643,7,7,47,0
+1570803541860,49,getI18n(Common),200,OK,10.20.2.153Thread Group 1-496,,true,,529,7,7,49,0
+1570803541909,60,getI18n(Common),200,OK,10.20.2.153Thread Group 1-496,text,true,,1685,8,8,60,0
+1570803541970,58,getCart,200,OK,10.20.2.153Thread Group 1-496,text,true,,1015,8,8,58,0
+1570803542029,0,Access calendar,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Illegal character in path at index 56: https://staging1.ovationtix.com/ci/api/rest/Production(${prodId})/performance,10.20.2.153Thread Group 1-496,text,false,,1228,8,8,0,0
+1570803542030,31,Access calendar,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Illegal character in path at index 56: https://staging1.ovationtix.com/ci/api/rest/Production(${prodId})/performance,10.20.2.153Thread Group 1-496,text,false,,2713,8,8,0,0
+1570803542061,0,Debug PostProcessor,200,OK,10.20.2.153Thread Group 1-496,text,true,,1485,0,0,0,0
+1570803542064,51,Access an event,200,OK,10.20.2.153Thread Group 1-496,,true,,544,8,8,51,0
+1570803542115,59,Access an event,500,Internal Server Error,10.20.2.153Thread Group 1-496,text,false,,2949,8,8,59,0
+1570803542174,0,Debug PostProcessor,200,OK,10.20.2.153Thread Group 1-496,text,true,,1547,0,0,0,0
+1570803542177,69,getClientContext,200,OK,10.20.2.153Thread Group 1-496,text,true,,3640,8,8,69,0
+1570803542246,0,Debug PostProcessor,200,OK,10.20.2.153Thread Group 1-496,text,true,,1543,0,0,0,0
+1570803536524,711,Access calendar and event ,,"Number of samples in transaction : 12, number of failing samples : 3",10.20.2.153Thread Group 1-496,,false,,17030,8,8,680,5014
+1570803542422,152,1 /ci/api/rest/Cart,200,OK,10.20.2.153Thread Group 1-499,,true,,529,8,8,152,0
+1570803542574,55,2 /ci/api/rest/Cart,200,OK,10.20.2.153Thread Group 1-499,text,true,,918,8,8,55,0
+1570803543324,147,getClientContext,200,OK,10.20.2.153Thread Group 1-495,,true,,606,8,8,147,0
+1570803543472,35,getI18n(FormError),200,OK,10.20.2.153Thread Group 1-495,,true,,529,8,8,35,0
+1570803543507,54,getI18n(FormError),200,OK,10.20.2.153Thread Group 1-495,text,true,,1063,8,8,54,0
+1570803543561,36,getCart,200,OK,10.20.2.153Thread Group 1-495,,true,,529,8,8,36,0
+1570803543597,38,getI18n(Common),200,OK,10.20.2.153Thread Group 1-495,,true,,529,8,8,38,0
+1570803543636,53,getI18n(Common),200,OK,10.20.2.153Thread Group 1-495,text,true,,1685,8,8,51,0
+1570803543689,51,getCart,200,OK,10.20.2.153Thread Group 1-495,text,true,,1015,9,9,51,0
+1570803543740,0,Access calendar,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Illegal character in path at index 56: https://staging1.ovationtix.com/ci/api/rest/Production(${prodId})/performance,10.20.2.153Thread Group 1-495,text,false,,1228,9,9,0,0
+1570803543742,1,Access calendar,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Illegal character in path at index 56: https://staging1.ovationtix.com/ci/api/rest/Production(${prodId})/performance,10.20.2.153Thread Group 1-495,text,false,,2713,9,9,0,0
+1570803543743,0,Debug PostProcessor,200,OK,10.20.2.153Thread Group 1-495,text,true,,1485,0,0,0,0
+1570803543752,37,Access an event,200,OK,10.20.2.153Thread Group 1-495,,true,,544,9,9,37,0
+1570803543654,191,Add to cart,200,OK,10.20.2.153Thread Group 1-498,,true,,529,9,9,191,0
+1570803543789,57,Access an event,500,Internal Server Error,10.20.2.153Thread Group 1-495,text,false,,2949,9,9,57,0
+1570803543846,0,Debug PostProcessor,200,OK,10.20.2.153Thread Group 1-495,text,true,,1547,0,0,0,0
+1570803543845,73,Add to cart,400,Bad Request,10.20.2.153Thread Group 1-498,text,false,,643,9,9,73,0
+1570803543849,76,getClientContext,200,OK,10.20.2.153Thread Group 1-495,text,true,,3640,9,9,74,0
+1570803543924,1,Debug PostProcessor,200,OK,10.20.2.153Thread Group 1-495,text,true,,1543,0,0,0,0
+1570803538323,585,Access calendar and event ,,"Number of samples in transaction : 12, number of failing samples : 3",10.20.2.153Thread Group 1-495,,false,,17030,9,9,580,5018
+1570803544433,188,1 /ci/api/rest/Cart,200,OK,10.20.2.153Thread Group 1-498,,true,,529,9,9,188,0
+1570803544621,62,2 /ci/api/rest/Cart,200,OK,10.20.2.153Thread Group 1-498,text,true,,918,9,9,62,0
+1570803545122,124,getClientContext,200,OK,10.20.2.153Thread Group 1-494,,true,,606,9,9,124,0
+1570803545247,32,getI18n(FormError),200,OK,10.20.2.153Thread Group 1-494,,true,,529,9,9,32,0
+1570803545279,49,getI18n(FormError),200,OK,10.20.2.153Thread Group 1-494,text,true,,1063,9,9,49,0
+1570803545328,35,getCart,200,OK,10.20.2.153Thread Group 1-494,,true,,529,9,9,35,0
+1570803545364,34,getI18n(Common),200,OK,10.20.2.153Thread Group 1-494,,true,,529,9,9,34,0
+1570803545254,185,Add to cart,200,OK,10.20.2.153Thread Group 1-497,,true,,529,9,9,185,0
+1570803545398,47,getI18n(Common),200,OK,10.20.2.153Thread Group 1-494,text,true,,1685,9,9,47,0
+1570803545439,54,Add to cart,400,Bad Request,10.20.2.153Thread Group 1-497,text,false,,643,9,9,54,0
+1570803545445,55,getCart,200,OK,10.20.2.153Thread Group 1-494,text,true,,1015,9,9,53,0
+1570803545500,0,Access calendar,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Illegal character in path at index 56: https://staging1.ovationtix.com/ci/api/rest/Production(${prodId})/performance,10.20.2.153Thread Group 1-494,text,false,,1228,9,9,0,0
+1570803545500,1,Access calendar,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Illegal character in path at index 56: https://staging1.ovationtix.com/ci/api/rest/Production(${prodId})/performance,10.20.2.153Thread Group 1-494,text,false,,2713,9,9,0,0
+1570803545501,0,Debug PostProcessor,200,OK,10.20.2.153Thread Group 1-494,text,true,,1485,0,0,0,0
+1570803545505,36,Access an event,200,OK,10.20.2.153Thread Group 1-494,,true,,544,10,10,36,0
+1570803545541,50,Access an event,500,Internal Server Error,10.20.2.153Thread Group 1-494,text,false,,2949,10,10,49,0
+1570803545591,0,Debug PostProcessor,200,OK,10.20.2.153Thread Group 1-494,text,true,,1547,0,0,0,0
+1570803545594,55,getClientContext,200,OK,10.20.2.153Thread Group 1-494,text,true,,3638,10,10,53,0
+1570803545649,0,Debug PostProcessor,200,OK,10.20.2.153Thread Group 1-494,text,true,,1541,0,0,0,0
+1570803540122,518,Access calendar and event ,,"Number of samples in transaction : 12, number of failing samples : 3",10.20.2.153Thread Group 1-494,,false,,17028,10,10,512,5011
+1570803546007,184,1 /ci/api/rest/Cart,200,OK,10.20.2.153Thread Group 1-497,,true,,529,10,10,184,0
+1570803546077,133,getClientContext,200,OK,10.20.2.153Thread Group 1-500,,true,,606,10,10,133,0
+1570803546211,35,getI18n(FormError),200,OK,10.20.2.153Thread Group 1-500,,true,,529,10,10,35,0
+1570803546192,62,2 /ci/api/rest/Cart,200,OK,10.20.2.153Thread Group 1-497,text,true,,918,10,10,62,0
+1570803546246,55,getI18n(FormError),200,OK,10.20.2.153Thread Group 1-500,text,true,,1063,10,10,55,0
+1570803546301,35,getCart,200,OK,10.20.2.153Thread Group 1-500,,true,,529,10,10,35,0
+1570803546336,35,getI18n(Common),200,OK,10.20.2.153Thread Group 1-500,,true,,529,10,10,35,0
+1570803546372,56,getI18n(Common),200,OK,10.20.2.153Thread Group 1-500,text,true,,1685,10,10,56,0
+1570803546428,45,getCart,200,OK,10.20.2.153Thread Group 1-500,text,true,,1015,10,10,45,0
+1570803546473,36,Access calendar,200,OK,10.20.2.153Thread Group 1-500,,true,,529,10,10,36,0
+1570803546509,59,Access calendar,404,Not Found,10.20.2.153Thread Group 1-500,text,false,,2248,10,10,58,0
+1570803546568,0,Debug PostProcessor,200,OK,10.20.2.153Thread Group 1-500,text,true,,1596,0,0,0,0
+1570803546570,40,Access an event,200,OK,10.20.2.153Thread Group 1-500,,true,,544,10,10,40,0
+1570803546610,53,Access an event,500,Internal Server Error,10.20.2.153Thread Group 1-500,text,false,,2983,10,10,52,0
+1570803546663,0,Debug PostProcessor,200,OK,10.20.2.153Thread Group 1-500,text,true,,1581,0,0,0,0
+1570803546665,56,getClientContext,200,OK,10.20.2.153Thread Group 1-500,text,true,,3672,10,10,54,0
+1570803546720,1,Debug PostProcessor,200,OK,10.20.2.153Thread Group 1-500,text,true,,1575,0,0,0,0
+1570803541076,638,Access calendar and event ,,"Number of samples in transaction : 12, number of failing samples : 2",10.20.2.153Thread Group 1-500,,false,,15932,10,10,634,5009
+1570803546924,140,getClientContext,200,OK,10.20.2.153Thread Group 1-493,,true,,606,10,10,140,0
+1570803547064,35,getI18n(FormError),200,OK,10.20.2.153Thread Group 1-493,,true,,529,10,10,35,0
+1570803547099,54,getI18n(FormError),200,OK,10.20.2.153Thread Group 1-493,text,true,,1063,10,10,53,0
+1570803547153,35,getCart,200,OK,10.20.2.153Thread Group 1-493,,true,,529,10,10,35,0
+1570803547189,36,getI18n(Common),200,OK,10.20.2.153Thread Group 1-493,,true,,529,10,10,36,0
+1570803547225,53,getI18n(Common),200,OK,10.20.2.153Thread Group 1-493,text,true,,1685,10,10,53,0
+1570803547278,48,getCart,200,OK,10.20.2.153Thread Group 1-493,text,true,,1015,11,11,48,0
+1570803547327,0,Access calendar,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Illegal character in path at index 56: https://staging1.ovationtix.com/ci/api/rest/Production(${prodId})/performance,10.20.2.153Thread Group 1-493,text,false,,1228,11,11,0,0
+1570803547327,0,Access calendar,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Illegal character in path at index 56: https://staging1.ovationtix.com/ci/api/rest/Production(${prodId})/performance,10.20.2.153Thread Group 1-493,text,false,,2712,11,11,0,0
+1570803547327,0,Debug PostProcessor,200,OK,10.20.2.153Thread Group 1-493,text,true,,1484,0,0,0,0
+1570803547330,41,Access an event,200,OK,10.20.2.153Thread Group 1-493,,true,,544,11,11,41,0
+1570803547372,49,Access an event,500,Internal Server Error,10.20.2.153Thread Group 1-493,text,false,,2948,11,11,49,0
+1570803547421,0,Debug PostProcessor,200,OK,10.20.2.153Thread Group 1-493,text,true,,1546,0,0,0,0
+1570803547254,176,Add to cart,200,OK,10.20.2.153Thread Group 1-496,,true,,529,11,11,176,0
+1570803547430,51,Add to cart,400,Bad Request,10.20.2.153Thread Group 1-496,text,false,,643,11,11,51,0
+1570803547424,57,getClientContext,200,OK,10.20.2.153Thread Group 1-493,text,true,,3640,11,11,55,0
+1570803547481,0,Debug PostProcessor,200,OK,10.20.2.153Thread Group 1-493,text,true,,1543,0,0,0,0
+1570803541923,548,Access calendar and event ,,"Number of samples in transaction : 12, number of failing samples : 3",10.20.2.153Thread Group 1-493,,false,,17028,11,11,545,5012
+1570803547630,182,getClientContext,200,OK,10.20.2.153Thread Group 1-499,,true,,606,11,11,182,0
+1570803547814,47,getI18n(FormError),200,OK,10.20.2.153Thread Group 1-499,,true,,529,11,11,47,0
+1570803547861,84,getI18n(FormError),200,OK,10.20.2.153Thread Group 1-499,text,true,,1063,11,11,84,0
+1570803547946,44,getCart,200,OK,10.20.2.153Thread Group 1-499,,true,,529,11,11,44,0
+1570803547991,44,getI18n(Common),200,OK,10.20.2.153Thread Group 1-499,,true,,529,11,11,44,0
+1570803548036,59,getI18n(Common),200,OK,10.20.2.153Thread Group 1-499,text,true,,1685,11,11,59,0
+1570803547997,136,1 /ci/api/rest/Cart,200,OK,10.20.2.153Thread Group 1-496,,true,,529,11,11,136,0
+1570803548095,54,getCart,200,OK,10.20.2.153Thread Group 1-499,text,true,,1015,11,11,54,0
+1570803548133,53,2 /ci/api/rest/Cart,200,OK,10.20.2.153Thread Group 1-496,text,true,,918,11,11,53,0
+1570803548149,45,Access calendar,200,OK,10.20.2.153Thread Group 1-499,,true,,529,11,11,45,0
+1570803548194,60,Access calendar,404,Not Found,10.20.2.153Thread Group 1-499,text,false,,2248,11,11,60,0
+1570803548254,0,Debug PostProcessor,200,OK,10.20.2.153Thread Group 1-499,text,true,,1596,0,0,0,0
+1570803548257,46,Access an event,200,OK,10.20.2.153Thread Group 1-499,,true,,544,11,11,46,0
+1570803548303,59,Access an event,500,Internal Server Error,10.20.2.153Thread Group 1-499,text,false,,2983,11,11,59,0
+1570803548362,0,Debug PostProcessor,200,OK,10.20.2.153Thread Group 1-499,text,true,,1581,0,0,0,0
+1570803548364,62,getClientContext,200,OK,10.20.2.153Thread Group 1-499,text,true,,3674,11,11,62,0
+1570803548426,0,Debug PostProcessor,200,OK,10.20.2.153Thread Group 1-499,text,true,,1577,0,0,0,0
+1570803542629,786,Access calendar and event ,,"Number of samples in transaction : 12, number of failing samples : 2",10.20.2.153Thread Group 1-499,,false,,15934,11,11,786,5012
+1570803548725,133,getClientContext,200,OK,10.20.2.153Thread Group 1-492,,true,,606,11,11,133,0
+1570803548858,39,getI18n(FormError),200,OK,10.20.2.153Thread Group 1-492,,true,,529,11,11,39,0
+1570803548897,51,getI18n(FormError),200,OK,10.20.2.153Thread Group 1-492,text,true,,1063,11,11,51,0
+1570803548948,36,getCart,200,OK,10.20.2.153Thread Group 1-492,,true,,529,11,11,36,0
+1570803548984,36,getI18n(Common),200,OK,10.20.2.153Thread Group 1-492,,true,,529,11,11,36,0
+1570803548934,134,Add to cart,200,OK,10.20.2.153Thread Group 1-495,,true,,529,11,11,134,0
+1570803549020,59,getI18n(Common),200,OK,10.20.2.153Thread Group 1-492,text,true,,1685,11,11,59,0
+1570803549069,42,Add to cart,400,Bad Request,10.20.2.153Thread Group 1-495,text,false,,643,11,11,42,0
+1570803549080,42,getCart,200,OK,10.20.2.153Thread Group 1-492,text,true,,1015,11,11,42,0
+1570803549122,0,Access calendar,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Illegal character in path at index 56: https://staging1.ovationtix.com/ci/api/rest/Production(${prodId})/performance,10.20.2.153Thread Group 1-492,text,false,,1228,11,11,0,0
+1570803549122,1,Access calendar,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Illegal character in path at index 56: https://staging1.ovationtix.com/ci/api/rest/Production(${prodId})/performance,10.20.2.153Thread Group 1-492,text,false,,2713,11,11,0,0
+1570803549123,0,Debug PostProcessor,200,OK,10.20.2.153Thread Group 1-492,text,true,,1485,0,0,0,0
+1570803549126,41,Access an event,200,OK,10.20.2.153Thread Group 1-492,,true,,544,12,12,41,0
+1570803549167,52,Access an event,500,Internal Server Error,10.20.2.153Thread Group 1-492,text,false,,2948,12,12,52,0
+1570803549219,0,Debug PostProcessor,200,OK,10.20.2.153Thread Group 1-492,text,true,,1546,0,0,0,0
+1570803549222,54,getClientContext,200,OK,10.20.2.153Thread Group 1-492,text,true,,3640,12,12,52,0
+1570803549276,0,Debug PostProcessor,200,OK,10.20.2.153Thread Group 1-492,text,true,,1543,0,0,0,0
+1570803543723,544,Access calendar and event ,,"Number of samples in transaction : 12, number of failing samples : 3",10.20.2.153Thread Group 1-492,,false,,17029,12,12,541,5010
+1570803549624,137,1 /ci/api/rest/Cart,200,OK,10.20.2.153Thread Group 1-495,,true,,529,12,12,137,0
+1570803549685,122,getClientContext,200,OK,10.20.2.153Thread Group 1-498,,true,,606,12,12,122,0
+1570803549762,54,2 /ci/api/rest/Cart,200,OK,10.20.2.153Thread Group 1-495,text,true,,918,12,12,54,0
+1570803549807,41,getI18n(FormError),200,OK,10.20.2.153Thread Group 1-498,,true,,529,12,12,41,0
+1570803549848,47,getI18n(FormError),200,OK,10.20.2.153Thread Group 1-498,text,true,,1063,12,12,47,0
+1570803549895,32,getCart,200,OK,10.20.2.153Thread Group 1-498,,true,,529,12,12,32,0
+1570803549927,33,getI18n(Common),200,OK,10.20.2.153Thread Group 1-498,,true,,529,12,12,33,0
+1570803549960,46,getI18n(Common),200,OK,10.20.2.153Thread Group 1-498,text,true,,1685,12,12,46,0
+1570803550006,45,getCart,200,OK,10.20.2.153Thread Group 1-498,text,true,,1015,12,12,45,0
+1570803550051,34,Access calendar,200,OK,10.20.2.153Thread Group 1-498,,true,,529,12,12,34,0
+1570803550086,47,Access calendar,404,Not Found,10.20.2.153Thread Group 1-498,text,false,,2246,12,12,47,0
+1570803550133,0,Debug PostProcessor,200,OK,10.20.2.153Thread Group 1-498,text,true,,1594,0,0,0,0
+1570803550136,35,Access an event,200,OK,10.20.2.153Thread Group 1-498,,true,,544,12,12,35,0
+1570803550171,46,Access an event,500,Internal Server Error,10.20.2.153Thread Group 1-498,text,false,,2983,12,12,46,0
+1570803550217,0,Debug PostProcessor,200,OK,10.20.2.153Thread Group 1-498,text,true,,1581,0,0,0,0
+1570803550219,52,getClientContext,200,OK,10.20.2.153Thread Group 1-498,text,true,,3674,12,12,52,0
+1570803550271,0,Debug PostProcessor,200,OK,10.20.2.153Thread Group 1-498,text,true,,1577,0,0,0,0
+1570803544684,580,Access calendar and event ,,"Number of samples in transaction : 12, number of failing samples : 2",10.20.2.153Thread Group 1-498,,false,,15932,12,12,580,5008
+1570803550524,135,getClientContext,200,OK,10.20.2.153Thread Group 1-491,,true,,606,12,12,135,0
+1570803550659,39,getI18n(FormError),200,OK,10.20.2.153Thread Group 1-491,,true,,529,12,12,39,0
+1570803550699,90,getI18n(FormError),200,OK,10.20.2.153Thread Group 1-491,text,true,,1063,12,12,90,0
+1570803550790,40,getCart,200,OK,10.20.2.153Thread Group 1-491,,true,,529,12,12,40,0
+1570803550657,186,Add to cart,200,OK,10.20.2.153Thread Group 1-494,,true,,529,12,12,186,0
+1570803550831,43,getI18n(Common),200,OK,10.20.2.153Thread Group 1-491,,true,,529,12,12,43,0
+1570803550844,59,Add to cart,400,Bad Request,10.20.2.153Thread Group 1-494,text,false,,643,12,12,59,0
+1570803550874,70,getI18n(Common),200,OK,10.20.2.153Thread Group 1-491,text,true,,1685,13,13,68,0
+1570803550944,73,getCart,200,OK,10.20.2.153Thread Group 1-491,text,true,,1015,13,13,73,0
+1570803551018,0,Access calendar,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Illegal character in path at index 56: https://staging1.ovationtix.com/ci/api/rest/Production(${prodId})/performance,10.20.2.153Thread Group 1-491,text,false,,1228,13,13,0,0
+1570803551018,0,Access calendar,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Illegal character in path at index 56: https://staging1.ovationtix.com/ci/api/rest/Production(${prodId})/performance,10.20.2.153Thread Group 1-491,text,false,,2712,13,13,0,0
+1570803551018,0,Debug PostProcessor,200,OK,10.20.2.153Thread Group 1-491,text,true,,1484,0,0,0,0
+1570803551020,55,Access an event,200,OK,10.20.2.153Thread Group 1-491,,true,,544,13,13,55,0
+1570803551075,67,Access an event,500,Internal Server Error,10.20.2.153Thread Group 1-491,text,false,,2947,13,13,67,0
+1570803551142,0,Debug PostProcessor,200,OK,10.20.2.153Thread Group 1-491,text,true,,1545,0,0,0,0
+1570803551144,100,getClientContext,200,OK,10.20.2.153Thread Group 1-491,text,true,,3640,13,13,97,0
+1570803551244,0,Debug PostProcessor,200,OK,10.20.2.153Thread Group 1-491,text,true,,1543,0,0,0,0
+1570803545522,712,Access calendar and event ,,"Number of samples in transaction : 12, number of failing samples : 3",10.20.2.153Thread Group 1-491,,false,,17027,13,13,707,5011
+1570803551256,127,getClientContext,200,OK,10.20.2.153Thread Group 1-497,,true,,606,13,13,127,0
+1570803551383,37,getI18n(FormError),200,OK,10.20.2.153Thread Group 1-497,,true,,529,13,13,37,0
+1570803551420,79,getI18n(FormError),200,OK,10.20.2.153Thread Group 1-497,text,true,,1063,13,13,79,0
+1570803551499,38,getCart,200,OK,10.20.2.153Thread Group 1-497,,true,,529,13,13,38,0
+1570803551413,146,1 /ci/api/rest/Cart,200,OK,10.20.2.153Thread Group 1-494,,true,,529,13,13,146,0
+1570803551537,37,getI18n(Common),200,OK,10.20.2.153Thread Group 1-497,,true,,529,13,13,37,0
+1570803551574,63,getI18n(Common),200,OK,10.20.2.153Thread Group 1-497,text,true,,1685,13,13,60,0
+1570803551559,83,2 /ci/api/rest/Cart,200,OK,10.20.2.153Thread Group 1-494,text,true,,918,13,13,83,0
+1570803551637,73,getCart,200,OK,10.20.2.153Thread Group 1-497,text,true,,1015,13,13,73,0
+1570803551710,39,Access calendar,200,OK,10.20.2.153Thread Group 1-497,,true,,529,13,13,39,0
+1570803551749,60,Access calendar,404,Not Found,10.20.2.153Thread Group 1-497,text,false,,2247,13,13,59,0
+1570803551808,1,Debug PostProcessor,200,OK,10.20.2.153Thread Group 1-497,text,true,,1595,0,0,0,0
+1570803551811,42,Access an event,200,OK,10.20.2.153Thread Group 1-497,,true,,544,13,13,42,0
+1570803551725,135,Add to cart,200,OK,10.20.2.153Thread Group 1-500,,true,,529,13,13,135,0
+1570803551860,46,Add to cart,400,Bad Request,10.20.2.153Thread Group 1-500,text,false,,643,13,13,46,0
+1570803551853,69,Access an event,500,Internal Server Error,10.20.2.153Thread Group 1-497,text,false,,2983,13,13,69,0
+1570803551922,0,Debug PostProcessor,200,OK,10.20.2.153Thread Group 1-497,text,true,,1581,0,0,0,0
+1570803551925,71,getClientContext,200,OK,10.20.2.153Thread Group 1-497,text,true,,3674,13,13,69,0
+1570803551995,1,Debug PostProcessor,200,OK,10.20.2.153Thread Group 1-497,text,true,,1577,0,0,0,0
+1570803546254,735,Access calendar and event ,,"Number of samples in transaction : 12, number of failing samples : 2",10.20.2.153Thread Group 1-497,,false,,15933,13,13,729,5008
+1570803552323,211,getClientContext,200,OK,10.20.2.153Thread Group 1-490,,true,,606,13,13,211,0
+1570803552411,140,1 /ci/api/rest/Cart,200,OK,10.20.2.153Thread Group 1-500,,true,,529,13,13,140,0
+1570803552534,48,getI18n(FormError),200,OK,10.20.2.153Thread Group 1-490,,true,,529,13,13,48,0
+1570803552551,52,2 /ci/api/rest/Cart,200,OK,10.20.2.153Thread Group 1-500,text,true,,918,13,13,52,0
+1570803552491,136,Add to cart,200,OK,10.20.2.153Thread Group 1-493,,true,,529,13,13,136,0
+1570803552582,61,getI18n(FormError),200,OK,10.20.2.153Thread Group 1-490,text,true,,1063,13,13,61,0
+1570803552627,41,Add to cart,400,Bad Request,10.20.2.153Thread Group 1-493,text,false,,643,13,13,40,0
+1570803552644,45,getCart,200,OK,10.20.2.153Thread Group 1-490,,true,,529,13,13,45,0
+1570803552689,47,getI18n(Common),200,OK,10.20.2.153Thread Group 1-490,,true,,529,14,14,47,0
+1570803552736,58,getI18n(Common),200,OK,10.20.2.153Thread Group 1-490,text,true,,1685,14,14,58,0
+1570803552795,58,getCart,200,OK,10.20.2.153Thread Group 1-490,text,true,,1015,14,14,58,0
+1570803552853,0,Access calendar,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Illegal character in path at index 56: https://staging1.ovationtix.com/ci/api/rest/Production(${prodId})/performance,10.20.2.153Thread Group 1-490,text,false,,1228,14,14,0,0
+1570803552853,1,Access calendar,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Illegal character in path at index 56: https://staging1.ovationtix.com/ci/api/rest/Production(${prodId})/performance,10.20.2.153Thread Group 1-490,text,false,,2713,14,14,0,0
+1570803552854,0,Debug PostProcessor,200,OK,10.20.2.153Thread Group 1-490,text,true,,1485,0,0,0,0
+1570803552856,45,Access an event,200,OK,10.20.2.153Thread Group 1-490,,true,,544,14,14,45,0
+1570803552901,61,Access an event,500,Internal Server Error,10.20.2.153Thread Group 1-490,text,false,,2948,14,14,61,0
+1570803552962,0,Debug PostProcessor,200,OK,10.20.2.153Thread Group 1-490,text,true,,1546,0,0,0,0
+1570803552965,64,getClientContext,200,OK,10.20.2.153Thread Group 1-490,text,true,,3640,14,14,63,0
+1570803553028,1,Debug PostProcessor,200,OK,10.20.2.153Thread Group 1-490,text,true,,1543,0,0,0,0
+1570803547322,699,Access calendar and event ,,"Number of samples in transaction : 12, number of failing samples : 3",10.20.2.153Thread Group 1-490,,false,,17029,14,14,697,5008
+1570803553179,180,1 /ci/api/rest/Cart,200,OK,10.20.2.153Thread Group 1-493,,true,,529,14,14,180,0
+1570803553187,174,getClientContext,200,OK,10.20.2.153Thread Group 1-496,,true,,606,14,14,174,0
+1570803553361,44,getI18n(FormError),200,OK,10.20.2.153Thread Group 1-496,,true,,529,14,14,44,0
+1570803553359,64,2 /ci/api/rest/Cart,200,OK,10.20.2.153Thread Group 1-493,text,true,,918,14,14,64,0
+1570803553405,62,getI18n(FormError),200,OK,10.20.2.153Thread Group 1-496,text,true,,1063,14,14,62,0
+1570803553467,54,getCart,200,OK,10.20.2.153Thread Group 1-496,,true,,529,14,14,54,0
+1570803553522,50,getI18n(Common),200,OK,10.20.2.153Thread Group 1-496,,true,,529,14,14,50,0
+1570803553429,160,Add to cart,200,OK,10.20.2.153Thread Group 1-499,,true,,529,14,14,160,0
+1570803553573,60,getI18n(Common),200,OK,10.20.2.153Thread Group 1-496,text,true,,1685,14,14,60,0
+1570803553589,42,Add to cart,400,Bad Request,10.20.2.153Thread Group 1-499,text,false,,643,14,14,41,0
+1570803553633,55,getCart,200,OK,10.20.2.153Thread Group 1-496,text,true,,1015,14,14,55,0
+1570803553688,45,Access calendar,200,OK,10.20.2.153Thread Group 1-496,,true,,529,14,14,45,0
+1570803553734,59,Access calendar,404,Not Found,10.20.2.153Thread Group 1-496,text,false,,2248,14,14,59,0
+1570803553793,0,Debug PostProcessor,200,OK,10.20.2.153Thread Group 1-496,text,true,,1596,0,0,0,0
+1570803553800,48,Access an event,200,OK,10.20.2.153Thread Group 1-496,,true,,544,14,14,48,0
+1570803553848,66,Access an event,500,Internal Server Error,10.20.2.153Thread Group 1-496,text,false,,2983,14,14,65,0
+1570803553914,0,Debug PostProcessor,200,OK,10.20.2.153Thread Group 1-496,text,true,,1581,0,0,0,0
+1570803553917,63,getClientContext,200,OK,10.20.2.153Thread Group 1-496,text,true,,3674,14,14,60,0
+1570803553980,0,Debug PostProcessor,200,OK,10.20.2.153Thread Group 1-496,text,true,,1577,0,0,0,0
+1570803548186,780,Access calendar and event ,,"Number of samples in transaction : 12, number of failing samples : 2",10.20.2.153Thread Group 1-496,,false,,15934,14,14,776,5020
+1570803554125,130,getClientContext,200,OK,10.20.2.153Thread Group 1-489,,true,,606,14,14,130,0
+1570803554255,34,getI18n(FormError),200,OK,10.20.2.153Thread Group 1-489,,true,,529,14,14,34,0
+1570803554151,141,1 /ci/api/rest/Cart,200,OK,10.20.2.153Thread Group 1-499,,true,,529,14,14,141,0
+1570803554289,54,getI18n(FormError),200,OK,10.20.2.153Thread Group 1-489,text,true,,1063,14,14,54,0
+1570803554292,54,2 /ci/api/rest/Cart,200,OK,10.20.2.153Thread Group 1-499,text,true,,918,14,14,54,0
+1570803554343,36,getCart,200,OK,10.20.2.153Thread Group 1-489,,true,,529,14,14,36,0
+1570803554380,35,getI18n(Common),200,OK,10.20.2.153Thread Group 1-489,,true,,529,14,14,35,0
+1570803554416,47,getI18n(Common),200,OK,10.20.2.153Thread Group 1-489,text,true,,1685,14,14,47,0
+1570803554283,187,Add to cart,200,OK,10.20.2.153Thread Group 1-492,,true,,529,14,14,187,0
+1570803554464,68,getCart,200,OK,10.20.2.153Thread Group 1-489,text,true,,1015,15,15,68,0
+1570803554533,0,Access calendar,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Illegal character in path at index 56: https://staging1.ovationtix.com/ci/api/rest/Production(${prodId})/performance,10.20.2.153Thread Group 1-489,text,false,,1228,15,15,0,0
+1570803554534,1,Access calendar,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Illegal character in path at index 56: https://staging1.ovationtix.com/ci/api/rest/Production(${prodId})/performance,10.20.2.153Thread Group 1-489,text,false,,2713,15,15,0,0
+1570803554534,1,Debug PostProcessor,200,OK,10.20.2.153Thread Group 1-489,text,true,,1485,0,0,0,0
+1570803554470,71,Add to cart,400,Bad Request,10.20.2.153Thread Group 1-492,text,false,,643,15,15,71,0
+1570803554539,35,Access an event,200,OK,10.20.2.153Thread Group 1-489,,true,,544,15,15,35,0
+1570803554574,53,Access an event,500,Internal Server Error,10.20.2.153Thread Group 1-489,text,false,,2949,15,15,52,0
+1570803554627,0,Debug PostProcessor,200,OK,10.20.2.153Thread Group 1-489,text,true,,1547,0,0,0,0
+1570803554629,55,getClientContext,200,OK,10.20.2.153Thread Group 1-489,text,true,,3640,15,15,55,0
+1570803554684,0,Debug PostProcessor,200,OK,10.20.2.153Thread Group 1-489,text,true,,1543,0,0,0,0
+1570803549124,548,Access calendar and event ,,"Number of samples in transaction : 12, number of failing samples : 3",10.20.2.153Thread Group 1-489,,false,,17030,15,15,546,5015
+1570803554817,132,getClientContext,200,OK,10.20.2.153Thread Group 1-495,,true,,606,15,15,132,0
+1570803554950,32,getI18n(FormError),200,OK,10.20.2.153Thread Group 1-495,,true,,529,15,15,32,0
+1570803554983,49,getI18n(FormError),200,OK,10.20.2.153Thread Group 1-495,text,true,,1063,15,15,49,0
+1570803555032,35,getCart,200,OK,10.20.2.153Thread Group 1-495,,true,,529,15,15,35,0
+1570803555067,38,getI18n(Common),200,OK,10.20.2.153Thread Group 1-495,,true,,529,15,15,38,0
+1570803555105,55,getI18n(Common),200,OK,10.20.2.153Thread Group 1-495,text,true,,1685,15,15,55,0
+1570803555050,140,1 /ci/api/rest/Cart,200,OK,10.20.2.153Thread Group 1-492,,true,,529,15,15,140,0
+1570803555160,42,getCart,200,OK,10.20.2.153Thread Group 1-495,text,true,,1015,15,15,42,0
+1570803555202,35,Access calendar,200,OK,10.20.2.153Thread Group 1-495,,true,,529,15,15,35,0
+1570803555191,53,2 /ci/api/rest/Cart,200,OK,10.20.2.153Thread Group 1-492,text,true,,918,15,15,52,0
+1570803555238,49,Access calendar,404,Not Found,10.20.2.153Thread Group 1-495,text,false,,2248,15,15,49,0
+1570803555287,0,Debug PostProcessor,200,OK,10.20.2.153Thread Group 1-495,text,true,,1596,0,0,0,0
+1570803555292,38,Access an event,200,OK,10.20.2.153Thread Group 1-495,,true,,544,15,15,38,0
+1570803555330,47,Access an event,500,Internal Server Error,10.20.2.153Thread Group 1-495,text,false,,2983,15,15,47,0
+1570803555377,0,Debug PostProcessor,200,OK,10.20.2.153Thread Group 1-495,text,true,,1581,0,0,0,0
+1570803555274,139,Add to cart,200,OK,10.20.2.153Thread Group 1-498,,true,,529,15,15,139,0
+1570803555380,83,getClientContext,200,OK,10.20.2.153Thread Group 1-495,text,true,,3674,15,15,81,0
+1570803555463,0,Debug PostProcessor,200,OK,10.20.2.153Thread Group 1-495,text,true,,1577,0,0,0,0
+1570803549816,635,Access calendar and event ,,"Number of samples in transaction : 12, number of failing samples : 2",10.20.2.153Thread Group 1-495,,false,,15934,15,15,633,5018
+1570803555413,52,Add to cart,400,Bad Request,10.20.2.153Thread Group 1-498,text,false,,643,15,15,51,0
+1570803555925,140,getClientContext,200,OK,10.20.2.153Thread Group 1-488,,true,,606,15,15,140,0
+1570803556065,33,getI18n(FormError),200,OK,10.20.2.153Thread Group 1-488,,true,,529,15,15,33,0
+1570803556098,51,getI18n(FormError),200,OK,10.20.2.153Thread Group 1-488,text,true,,1063,15,15,51,0
+1570803555986,177,1 /ci/api/rest/Cart,200,OK,10.20.2.153Thread Group 1-498,,true,,529,15,15,177,0
+1570803556150,32,getCart,200,OK,10.20.2.153Thread Group 1-488,,true,,529,15,15,32,0
+1570803556182,35,getI18n(Common),200,OK,10.20.2.153Thread Group 1-488,,true,,529,15,15,35,0
+1570803556164,64,2 /ci/api/rest/Cart,200,OK,10.20.2.153Thread Group 1-498,text,true,,918,15,15,64,0
+1570803556217,47,getI18n(Common),200,OK,10.20.2.153Thread Group 1-488,text,true,,1685,15,15,47,0
+1570803556265,42,getCart,200,OK,10.20.2.153Thread Group 1-488,text,true,,1015,15,15,42,0
+1570803556307,0,Access calendar,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Illegal character in path at index 56: https://staging1.ovationtix.com/ci/api/rest/Production(${prodId})/performance,10.20.2.153Thread Group 1-488,text,false,,1228,15,15,0,0
+1570803556308,0,Access calendar,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Illegal character in path at index 56: https://staging1.ovationtix.com/ci/api/rest/Production(${prodId})/performance,10.20.2.153Thread Group 1-488,text,false,,2713,15,15,0,0
+1570803556308,0,Debug PostProcessor,200,OK,10.20.2.153Thread Group 1-488,text,true,,1485,0,0,0,0
+1570803556311,33,Access an event,200,OK,10.20.2.153Thread Group 1-488,,true,,544,16,16,33,0
+1570803556251,129,Add to cart,200,OK,10.20.2.153Thread Group 1-491,,true,,529,16,16,129,0
+1570803556345,44,Access an event,500,Internal Server Error,10.20.2.153Thread Group 1-488,text,false,,2949,16,16,44,0
+1570803556389,0,Debug PostProcessor,200,OK,10.20.2.153Thread Group 1-488,text,true,,1547,0,0,0,0
+1570803556380,42,Add to cart,400,Bad Request,10.20.2.153Thread Group 1-491,text,false,,643,16,16,42,0
+1570803556392,49,getClientContext,200,OK,10.20.2.153Thread Group 1-488,text,true,,3640,16,16,49,0
+1570803556441,0,Debug PostProcessor,200,OK,10.20.2.153Thread Group 1-488,text,true,,1543,0,0,0,0
+1570803550924,506,Access calendar and event ,,"Number of samples in transaction : 12, number of failing samples : 3",10.20.2.153Thread Group 1-488,,false,,17030,16,16,506,5013
+1570803556643,140,getClientContext,200,OK,10.20.2.153Thread Group 1-494,,true,,606,16,16,140,0
+1570803556783,34,getI18n(FormError),200,OK,10.20.2.153Thread Group 1-494,,true,,529,16,16,34,0
+1570803556818,53,getI18n(FormError),200,OK,10.20.2.153Thread Group 1-494,text,true,,1063,16,16,53,0
+1570803556872,36,getCart,200,OK,10.20.2.153Thread Group 1-494,,true,,529,16,16,36,0
+1570803556909,36,getI18n(Common),200,OK,10.20.2.153Thread Group 1-494,,true,,529,16,16,36,0
+1570803556945,48,getI18n(Common),200,OK,10.20.2.153Thread Group 1-494,text,true,,1685,16,16,48,0
+1570803556993,45,getCart,200,OK,10.20.2.153Thread Group 1-494,text,true,,1015,16,16,45,0
+1570803556930,133,1 /ci/api/rest/Cart,200,OK,10.20.2.153Thread Group 1-491,,true,,529,16,16,133,0
+1570803557038,34,Access calendar,200,OK,10.20.2.153Thread Group 1-494,,true,,529,16,16,34,0
+1570803557063,52,2 /ci/api/rest/Cart,200,OK,10.20.2.153Thread Group 1-491,text,true,,918,16,16,52,0
+1570803557073,49,Access calendar,404,Not Found,10.20.2.153Thread Group 1-494,text,false,,2248,16,16,49,0
+1570803557122,0,Debug PostProcessor,200,OK,10.20.2.153Thread Group 1-494,text,true,,1596,0,0,0,0
+1570803556999,137,Add to cart,200,OK,10.20.2.153Thread Group 1-497,,true,,529,16,16,137,0
+1570803557125,36,Access an event,200,OK,10.20.2.153Thread Group 1-494,,true,,544,16,16,36,0
+1570803557136,40,Add to cart,400,Bad Request,10.20.2.153Thread Group 1-497,text,false,,643,16,16,40,0
+1570803557161,47,Access an event,500,Internal Server Error,10.20.2.153Thread Group 1-494,text,false,,2983,16,16,47,0
+1570803557208,0,Debug PostProcessor,200,OK,10.20.2.153Thread Group 1-494,text,true,,1581,0,0,0,0
+1570803557211,55,getClientContext,200,OK,10.20.2.153Thread Group 1-494,text,true,,3672,16,16,53,0
+1570803557266,0,Debug PostProcessor,200,OK,10.20.2.153Thread Group 1-494,text,true,,1575,0,0,0,0
+1570803551642,613,Access calendar and event ,,"Number of samples in transaction : 12, number of failing samples : 2",10.20.2.153Thread Group 1-494,,false,,15932,16,16,611,5012
+1570803557604,126,getClientContext,200,OK,10.20.2.153Thread Group 1-500,,true,,606,16,16,126,0
+1570803557729,32,getI18n(FormError),200,OK,10.20.2.153Thread Group 1-500,,true,,529,16,16,32,0
+1570803557762,50,getI18n(FormError),200,OK,10.20.2.153Thread Group 1-500,text,true,,1063,16,16,50,0
+1570803557813,33,getCart,200,OK,10.20.2.153Thread Group 1-500,,true,,529,16,16,33,0
+1570803557724,125,getClientContext,200,OK,10.20.2.153Thread Group 1-487,,true,,606,16,16,125,0
+1570803557683,181,1 /ci/api/rest/Cart,200,OK,10.20.2.153Thread Group 1-497,,true,,529,16,16,181,0
+1570803557846,34,getI18n(Common),200,OK,10.20.2.153Thread Group 1-500,,true,,529,16,16,34,0
+1570803557850,32,getI18n(FormError),200,OK,10.20.2.153Thread Group 1-487,,true,,529,16,16,32,0
+1570803557880,47,getI18n(Common),200,OK,10.20.2.153Thread Group 1-500,text,true,,1685,16,16,47,0
+1570803557864,66,2 /ci/api/rest/Cart,200,OK,10.20.2.153Thread Group 1-497,text,true,,918,16,16,66,0
+1570803557882,51,getI18n(FormError),200,OK,10.20.2.153Thread Group 1-487,text,true,,1063,16,16,51,0
+1570803557934,33,getCart,200,OK,10.20.2.153Thread Group 1-487,,true,,529,16,16,33,0
+1570803557927,46,getCart,200,OK,10.20.2.153Thread Group 1-500,text,true,,1015,16,16,46,0
+1570803557968,35,getI18n(Common),200,OK,10.20.2.153Thread Group 1-487,,true,,529,16,16,35,0
+1570803557973,33,Access calendar,200,OK,10.20.2.153Thread Group 1-500,,true,,529,16,16,33,0
+1570803558004,47,getI18n(Common),200,OK,10.20.2.153Thread Group 1-487,text,true,,1685,16,16,47,0
+1570803558006,45,Access calendar,404,Not Found,10.20.2.153Thread Group 1-500,text,false,,2248,16,16,45,0
+1570803558051,0,Debug PostProcessor,200,OK,10.20.2.153Thread Group 1-500,text,true,,1596,0,0,0,0
+1570803558053,35,Access an event,200,OK,10.20.2.153Thread Group 1-500,,true,,544,16,16,35,0
+1570803558051,42,getCart,200,OK,10.20.2.153Thread Group 1-487,text,true,,1015,16,16,42,0
+1570803558093,0,Access calendar,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Illegal character in path at index 56: https://staging1.ovationtix.com/ci/api/rest/Production(${prodId})/performance,10.20.2.153Thread Group 1-487,text,false,,1228,16,16,0,0
+1570803558094,1,Access calendar,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Illegal character in path at index 56: https://staging1.ovationtix.com/ci/api/rest/Production(${prodId})/performance,10.20.2.153Thread Group 1-487,text,false,,2710,16,16,0,0
+1570803558095,0,Debug PostProcessor,200,OK,10.20.2.153Thread Group 1-487,text,true,,1482,0,0,0,0
+1570803558098,34,Access an event,200,OK,10.20.2.153Thread Group 1-487,,true,,544,17,17,34,0
+1570803558089,46,Access an event,500,Internal Server Error,10.20.2.153Thread Group 1-500,text,false,,2983,17,17,46,0
+1570803558135,0,Debug PostProcessor,200,OK,10.20.2.153Thread Group 1-500,text,true,,1581,0,0,0,0
+1570803558034,152,Add to cart,200,OK,10.20.2.153Thread Group 1-490,,true,,529,17,17,152,0
+1570803558132,54,Access an event,500,Internal Server Error,10.20.2.153Thread Group 1-487,text,false,,2948,17,17,54,0
+1570803558186,0,Debug PostProcessor,200,OK,10.20.2.153Thread Group 1-487,text,true,,1546,0,0,0,0
+1570803558139,55,getClientContext,200,OK,10.20.2.153Thread Group 1-500,text,true,,3672,17,17,55,0
+1570803558194,0,Debug PostProcessor,200,OK,10.20.2.153Thread Group 1-500,text,true,,1575,0,0,0,0
+1570803552603,582,Access calendar and event ,,"Number of samples in transaction : 12, number of failing samples : 2",10.20.2.153Thread Group 1-500,,false,,15932,17,17,582,5012
+1570803558186,41,Add to cart,400,Bad Request,10.20.2.153Thread Group 1-490,text,false,,643,17,17,41,0
+1570803558189,52,getClientContext,200,OK,10.20.2.153Thread Group 1-487,text,true,,3639,17,17,50,0
+1570803558241,0,Debug PostProcessor,200,OK,10.20.2.153Thread Group 1-487,text,true,,1542,0,0,0,0
+1570803552724,506,Access calendar and event ,,"Number of samples in transaction : 12, number of failing samples : 3",10.20.2.153Thread Group 1-487,,false,,17025,17,17,503,5013
+1570803558424,167,getClientContext,200,OK,10.20.2.153Thread Group 1-493,,true,,606,17,17,167,0
+1570803558592,37,getI18n(FormError),200,OK,10.20.2.153Thread Group 1-493,,true,,529,17,17,37,0
+1570803558630,54,getI18n(FormError),200,OK,10.20.2.153Thread Group 1-493,text,true,,1063,17,17,54,0
+1570803558685,45,getCart,200,OK,10.20.2.153Thread Group 1-493,,true,,529,17,17,45,0
+1570803558730,36,getI18n(Common),200,OK,10.20.2.153Thread Group 1-493,,true,,529,17,17,36,0
+1570803558767,49,getI18n(Common),200,OK,10.20.2.153Thread Group 1-493,text,true,,1685,17,17,47,0
+1570803558816,47,getCart,200,OK,10.20.2.153Thread Group 1-493,text,true,,1015,17,17,47,0
+1570803558735,140,1 /ci/api/rest/Cart,200,OK,10.20.2.153Thread Group 1-490,,true,,529,17,17,140,0
+1570803558864,37,Access calendar,200,OK,10.20.2.153Thread Group 1-493,,true,,529,17,17,37,0
+1570803558875,50,2 /ci/api/rest/Cart,200,OK,10.20.2.153Thread Group 1-490,text,true,,918,17,17,50,0
+1570803558901,51,Access calendar,404,Not Found,10.20.2.153Thread Group 1-493,text,false,,2247,17,17,50,0
+1570803558951,1,Debug PostProcessor,200,OK,10.20.2.153Thread Group 1-493,text,true,,1595,0,0,0,0
+1570803558959,38,Access an event,200,OK,10.20.2.153Thread Group 1-493,,true,,544,17,17,38,0
+1570803558998,49,Access an event,500,Internal Server Error,10.20.2.153Thread Group 1-493,text,false,,2982,17,17,49,0
+1570803559047,0,Debug PostProcessor,200,OK,10.20.2.153Thread Group 1-493,text,true,,1580,0,0,0,0
+1570803559049,58,getClientContext,200,OK,10.20.2.153Thread Group 1-493,text,true,,3674,17,17,56,0
+1570803559107,0,Debug PostProcessor,200,OK,10.20.2.153Thread Group 1-493,text,true,,1577,0,0,0,0
+1570803553423,668,Access calendar and event ,,"Number of samples in transaction : 12, number of failing samples : 2",10.20.2.153Thread Group 1-493,,false,,15932,17,17,663,5019
+1570803558987,134,Add to cart,200,OK,10.20.2.153Thread Group 1-496,,true,,529,17,17,134,0
+1570803559121,40,Add to cart,400,Bad Request,10.20.2.153Thread Group 1-496,text,false,,643,17,17,39,0
+1570803559347,146,getClientContext,200,OK,10.20.2.153Thread Group 1-499,,true,,606,17,17,146,0
+1570803559494,51,getI18n(FormError),200,OK,10.20.2.153Thread Group 1-499,,true,,529,17,17,51,0
+1570803559546,53,getI18n(FormError),200,OK,10.20.2.153Thread Group 1-499,text,true,,1063,17,17,53,0
+1570803559600,33,getCart,200,OK,10.20.2.153Thread Group 1-499,,true,,529,17,17,33,0
+1570803559633,34,getI18n(Common),200,OK,10.20.2.153Thread Group 1-499,,true,,529,17,17,34,0
+1570803559523,185,getClientContext,200,OK,10.20.2.153Thread Group 1-486,,true,,606,17,17,185,0
+1570803559667,48,getI18n(Common),200,OK,10.20.2.153Thread Group 1-499,text,true,,1685,17,17,48,0
+1570803559708,45,getI18n(FormError),200,OK,10.20.2.153Thread Group 1-486,,true,,529,17,17,45,0
+1570803559716,46,getCart,200,OK,10.20.2.153Thread Group 1-499,text,true,,1015,17,17,46,0
+1570803559762,36,Access calendar,200,OK,10.20.2.153Thread Group 1-499,,true,,529,17,17,36,0
+1570803559753,60,getI18n(FormError),200,OK,10.20.2.153Thread Group 1-486,text,true,,1063,17,17,60,0
+1570803559695,140,Add to cart,200,OK,10.20.2.153Thread Group 1-489,,true,,529,17,17,140,0
+1570803559667,178,1 /ci/api/rest/Cart,200,OK,10.20.2.153Thread Group 1-496,,true,,529,17,17,178,0
+1570803559798,50,Access calendar,404,Not Found,10.20.2.153Thread Group 1-499,text,false,,2248,17,17,49,0
+1570803559847,1,Debug PostProcessor,200,OK,10.20.2.153Thread Group 1-499,text,true,,1596,0,0,0,0
+1570803559813,46,getCart,200,OK,10.20.2.153Thread Group 1-486,,true,,529,17,17,46,0
+1570803559835,41,Add to cart,400,Bad Request,10.20.2.153Thread Group 1-489,text,false,,643,17,17,41,0
+1570803559850,34,Access an event,200,OK,10.20.2.153Thread Group 1-499,,true,,544,17,17,34,0
+1570803559859,45,getI18n(Common),200,OK,10.20.2.153Thread Group 1-486,,true,,529,17,17,45,0
+1570803559845,67,2 /ci/api/rest/Cart,200,OK,10.20.2.153Thread Group 1-496,text,true,,918,17,17,67,0
+1570803559885,51,Access an event,500,Internal Server Error,10.20.2.153Thread Group 1-499,text,false,,2983,18,18,51,0
+1570803559936,0,Debug PostProcessor,200,OK,10.20.2.153Thread Group 1-499,text,true,,1581,0,0,0,0
+1570803559905,57,getI18n(Common),200,OK,10.20.2.153Thread Group 1-486,text,true,,1685,18,18,57,0
+1570803559938,50,getClientContext,200,OK,10.20.2.153Thread Group 1-499,text,true,,3674,18,18,50,0
+1570803559988,0,Debug PostProcessor,200,OK,10.20.2.153Thread Group 1-499,text,true,,1577,0,0,0,0
+1570803554347,632,Access calendar and event ,,"Number of samples in transaction : 12, number of failing samples : 2",10.20.2.153Thread Group 1-499,,false,,15934,18,18,631,5011
+1570803559962,57,getCart,200,OK,10.20.2.153Thread Group 1-486,text,true,,1015,18,18,57,0
+1570803560019,0,Access calendar,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Illegal character in path at index 56: https://staging1.ovationtix.com/ci/api/rest/Production(${prodId})/performance,10.20.2.153Thread Group 1-486,text,false,,1228,18,18,0,0
+1570803560020,37,Access calendar,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Illegal character in path at index 56: https://staging1.ovationtix.com/ci/api/rest/Production(${prodId})/performance,10.20.2.153Thread Group 1-486,text,false,,2712,18,18,0,0
+1570803560057,0,Debug PostProcessor,200,OK,10.20.2.153Thread Group 1-486,text,true,,1484,0,0,0,0
+1570803560059,49,Access an event,200,OK,10.20.2.153Thread Group 1-486,,true,,544,18,18,49,0
+1570803560108,58,Access an event,500,Internal Server Error,10.20.2.153Thread Group 1-486,text,false,,2949,18,18,58,0
+1570803560166,0,Debug PostProcessor,200,OK,10.20.2.153Thread Group 1-486,text,true,,1547,0,0,0,0
+1570803560169,66,getClientContext,200,OK,10.20.2.153Thread Group 1-486,text,true,,3640,18,18,64,0
+1570803560235,0,Debug PostProcessor,200,OK,10.20.2.153Thread Group 1-486,text,true,,1543,0,0,0,0
+1570803554523,705,Access calendar and event ,,"Number of samples in transaction : 12, number of failing samples : 3",10.20.2.153Thread Group 1-486,,false,,17029,18,18,666,5010
+1570803560244,171,getClientContext,200,OK,10.20.2.153Thread Group 1-492,,true,,606,18,18,171,0
+1570803560416,46,getI18n(FormError),200,OK,10.20.2.153Thread Group 1-492,,true,,529,18,18,46,0
+1570803560462,60,getI18n(FormError),200,OK,10.20.2.153Thread Group 1-492,text,true,,1063,18,18,60,0
+1570803560386,143,1 /ci/api/rest/Cart,200,OK,10.20.2.153Thread Group 1-489,,true,,529,18,18,143,0
+1570803560522,53,getCart,200,OK,10.20.2.153Thread Group 1-492,,true,,529,18,18,53,0
+1570803560529,53,2 /ci/api/rest/Cart,200,OK,10.20.2.153Thread Group 1-489,text,true,,918,18,18,53,0
+1570803560576,45,getI18n(Common),200,OK,10.20.2.153Thread Group 1-492,,true,,529,18,18,45,0
+1570803560471,198,Add to cart,200,OK,10.20.2.153Thread Group 1-495,,true,,529,18,18,198,0
+1570803560622,61,getI18n(Common),200,OK,10.20.2.153Thread Group 1-492,text,true,,1685,18,18,61,0
+1570803560670,53,Add to cart,400,Bad Request,10.20.2.153Thread Group 1-495,text,false,,643,18,18,52,0
+1570803560683,56,getCart,200,OK,10.20.2.153Thread Group 1-492,text,true,,1015,18,18,56,0
+1570803560739,45,Access calendar,200,OK,10.20.2.153Thread Group 1-492,,true,,529,18,18,45,0
+1570803560784,62,Access calendar,404,Not Found,10.20.2.153Thread Group 1-492,text,false,,2248,18,18,61,0
+1570803560846,0,Debug PostProcessor,200,OK,10.20.2.153Thread Group 1-492,text,true,,1596,0,0,0,0
+1570803560851,47,Access an event,200,OK,10.20.2.153Thread Group 1-492,,true,,544,18,18,47,0
+1570803560899,58,Access an event,500,Internal Server Error,10.20.2.153Thread Group 1-492,text,false,,2982,18,18,58,0
+1570803560957,0,Debug PostProcessor,200,OK,10.20.2.153Thread Group 1-492,text,true,,1580,0,0,0,0
+1570803560960,62,getClientContext,200,OK,10.20.2.153Thread Group 1-492,text,true,,3674,18,18,61,0
+1570803561022,0,Debug PostProcessor,200,OK,10.20.2.153Thread Group 1-492,text,true,,1577,0,0,0,0
+1570803555244,766,Access calendar and event ,,"Number of samples in transaction : 12, number of failing samples : 2",10.20.2.153Thread Group 1-492,,false,,15933,18,18,764,5015
+1570803561227,138,getClientContext,200,OK,10.20.2.153Thread Group 1-498,,true,,606,18,18,138,0
+1570803561233,134,1 /ci/api/rest/Cart,200,OK,10.20.2.153Thread Group 1-495,,true,,529,18,18,134,0
+1570803561365,31,getI18n(FormError),200,OK,10.20.2.153Thread Group 1-498,,true,,529,18,18,31,0
+1570803561367,49,2 /ci/api/rest/Cart,200,OK,10.20.2.153Thread Group 1-495,text,true,,918,18,18,49,0
+1570803561323,121,getClientContext,200,OK,10.20.2.153Thread Group 1-485,,true,,606,18,18,121,0
+1570803561397,56,getI18n(FormError),200,OK,10.20.2.153Thread Group 1-498,text,true,,1063,18,18,56,0
+1570803561444,33,getI18n(FormError),200,OK,10.20.2.153Thread Group 1-485,,true,,529,18,18,33,0
+1570803561453,33,getCart,200,OK,10.20.2.153Thread Group 1-498,,true,,529,18,18,33,0
+1570803561486,33,getI18n(Common),200,OK,10.20.2.153Thread Group 1-498,,true,,529,18,18,33,0
+1570803561477,47,getI18n(FormError),200,OK,10.20.2.153Thread Group 1-485,text,true,,1063,18,18,47,0
+1570803561524,35,getCart,200,OK,10.20.2.153Thread Group 1-485,,true,,529,18,18,35,0
+1570803561519,51,getI18n(Common),200,OK,10.20.2.153Thread Group 1-498,text,true,,1685,18,18,51,0
+1570803561559,38,getI18n(Common),200,OK,10.20.2.153Thread Group 1-485,,true,,529,18,18,38,0
+1570803561446,183,Add to cart,200,OK,10.20.2.153Thread Group 1-488,,true,,529,18,18,183,0
+1570803561570,65,getCart,200,OK,10.20.2.153Thread Group 1-498,text,true,,1015,18,18,65,0
+1570803561597,47,getI18n(Common),200,OK,10.20.2.153Thread Group 1-485,text,true,,1685,18,18,47,0
+1570803561636,34,Access calendar,200,OK,10.20.2.153Thread Group 1-498,,true,,529,18,18,34,0
+1570803561630,50,Add to cart,400,Bad Request,10.20.2.153Thread Group 1-488,text,false,,643,18,18,50,0
+1570803561644,42,getCart,200,OK,10.20.2.153Thread Group 1-485,text,true,,1015,18,18,42,0
+1570803561686,0,Access calendar,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Illegal character in path at index 56: https://staging1.ovationtix.com/ci/api/rest/Production(${prodId})/performance,10.20.2.153Thread Group 1-485,text,false,,1228,18,18,0,0
+1570803561686,1,Access calendar,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Illegal character in path at index 56: https://staging1.ovationtix.com/ci/api/rest/Production(${prodId})/performance,10.20.2.153Thread Group 1-485,text,false,,2712,18,18,0,0
+1570803561687,0,Debug PostProcessor,200,OK,10.20.2.153Thread Group 1-485,text,true,,1484,0,0,0,0
+1570803561670,48,Access calendar,404,Not Found,10.20.2.153Thread Group 1-498,text,false,,2246,18,18,48,0
+1570803561718,0,Debug PostProcessor,200,OK,10.20.2.153Thread Group 1-498,text,true,,1594,0,0,0,0
+1570803561689,33,Access an event,200,OK,10.20.2.153Thread Group 1-485,,true,,544,19,19,33,0
+1570803561720,38,Access an event,200,OK,10.20.2.153Thread Group 1-498,,true,,544,19,19,38,0
+1570803561722,46,Access an event,500,Internal Server Error,10.20.2.153Thread Group 1-485,text,false,,2947,19,19,46,0
+1570803561768,0,Debug PostProcessor,200,OK,10.20.2.153Thread Group 1-485,text,true,,1545,0,0,0,0
+1570803561758,47,Access an event,500,Internal Server Error,10.20.2.153Thread Group 1-498,text,false,,2983,19,19,46,0
+1570803561804,1,Debug PostProcessor,200,OK,10.20.2.153Thread Group 1-498,text,true,,1581,0,0,0,0
+1570803561771,53,getClientContext,200,OK,10.20.2.153Thread Group 1-485,text,true,,3638,19,19,52,0
+1570803561824,0,Debug PostProcessor,200,OK,10.20.2.153Thread Group 1-485,text,true,,1541,0,0,0,0
+1570803556324,496,Access calendar and event ,,"Number of samples in transaction : 12, number of failing samples : 3",10.20.2.153Thread Group 1-485,,false,,17025,19,19,494,5007
+1570803561809,53,getClientContext,200,OK,10.20.2.153Thread Group 1-498,text,true,,3674,19,19,51,0
+1570803561862,0,Debug PostProcessor,200,OK,10.20.2.153Thread Group 1-498,text,true,,1577,0,0,0,0
+1570803556228,627,Access calendar and event ,,"Number of samples in transaction : 12, number of failing samples : 2",10.20.2.153Thread Group 1-498,,false,,15932,19,19,624,5010
+1570803562115,125,getClientContext,200,OK,10.20.2.153Thread Group 1-491,,true,,606,19,19,125,0
+1570803562240,32,getI18n(FormError),200,OK,10.20.2.153Thread Group 1-491,,true,,529,19,19,32,0
+1570803562272,47,getI18n(FormError),200,OK,10.20.2.153Thread Group 1-491,text,true,,1063,19,19,47,0
+1570803562319,32,getCart,200,OK,10.20.2.153Thread Group 1-491,,true,,529,19,19,32,0
+1570803562190,185,1 /ci/api/rest/Cart,200,OK,10.20.2.153Thread Group 1-488,,true,,529,19,19,185,0
+1570803562351,34,getI18n(Common),200,OK,10.20.2.153Thread Group 1-491,,true,,529,19,19,34,0
+1570803562267,131,Add to cart,200,OK,10.20.2.153Thread Group 1-494,,true,,529,19,19,131,0
+1570803562386,46,getI18n(Common),200,OK,10.20.2.153Thread Group 1-491,text,true,,1685,19,19,46,0
+1570803562375,66,2 /ci/api/rest/Cart,200,OK,10.20.2.153Thread Group 1-488,text,true,,918,19,19,66,0
+1570803562399,42,Add to cart,400,Bad Request,10.20.2.153Thread Group 1-494,text,false,,643,19,19,42,0
+1570803562432,44,getCart,200,OK,10.20.2.153Thread Group 1-491,text,true,,1015,19,19,44,0
+1570803562476,35,Access calendar,200,OK,10.20.2.153Thread Group 1-491,,true,,529,19,19,35,0
+1570803562512,73,Access calendar,404,Not Found,10.20.2.153Thread Group 1-491,text,false,,2247,19,19,73,0
+1570803562585,0,Debug PostProcessor,200,OK,10.20.2.153Thread Group 1-491,text,true,,1595,0,0,0,0
+1570803562587,36,Access an event,200,OK,10.20.2.153Thread Group 1-491,,true,,544,19,19,36,0
+1570803562624,49,Access an event,500,Internal Server Error,10.20.2.153Thread Group 1-491,text,false,,2981,19,19,48,0
+1570803562673,0,Debug PostProcessor,200,OK,10.20.2.153Thread Group 1-491,text,true,,1579,0,0,0,0
+1570803562678,51,getClientContext,200,OK,10.20.2.153Thread Group 1-491,text,true,,3674,19,19,49,0
+1570803562729,0,Debug PostProcessor,200,OK,10.20.2.153Thread Group 1-491,text,true,,1577,0,0,0,0
+1570803557116,604,Access calendar and event ,,"Number of samples in transaction : 12, number of failing samples : 2",10.20.2.153Thread Group 1-491,,false,,15931,19,19,601,5012
+1570803562931,142,getClientContext,200,OK,10.20.2.153Thread Group 1-497,,true,,606,19,19,142,0
+1570803563073,33,getI18n(FormError),200,OK,10.20.2.153Thread Group 1-497,,true,,529,19,19,33,0
+1570803562946,182,1 /ci/api/rest/Cart,200,OK,10.20.2.153Thread Group 1-494,,true,,529,19,19,182,0
+1570803563106,61,getI18n(FormError),200,OK,10.20.2.153Thread Group 1-497,text,true,,1063,19,19,61,0
+1570803563128,62,2 /ci/api/rest/Cart,200,OK,10.20.2.153Thread Group 1-494,text,true,,918,19,19,62,0
+1570803563167,31,getCart,200,OK,10.20.2.153Thread Group 1-497,,true,,529,19,19,31,0
+1570803563199,32,getI18n(Common),200,OK,10.20.2.153Thread Group 1-497,,true,,529,19,19,32,0
+1570803563123,134,getClientContext,200,OK,10.20.2.153Thread Group 1-484,,true,,606,19,19,134,0
+1570803563232,46,getI18n(Common),200,OK,10.20.2.153Thread Group 1-497,text,true,,1685,19,19,46,0
+1570803563257,34,getI18n(FormError),200,OK,10.20.2.153Thread Group 1-484,,true,,529,19,19,34,0
+1570803563278,45,getCart,200,OK,10.20.2.153Thread Group 1-497,text,true,,1015,19,19,45,0
+1570803563197,134,Add to cart,200,OK,10.20.2.153Thread Group 1-500,,true,,529,19,19,134,0
+1570803563291,48,getI18n(FormError),200,OK,10.20.2.153Thread Group 1-484,text,true,,1063,19,19,48,0
+1570803563323,33,Access calendar,200,OK,10.20.2.153Thread Group 1-497,,true,,529,19,19,33,0
+1570803563339,33,getCart,200,OK,10.20.2.153Thread Group 1-484,,true,,529,19,19,33,0
+1570803563331,40,Add to cart,400,Bad Request,10.20.2.153Thread Group 1-500,text,false,,643,19,19,39,0
+1570803563356,48,Access calendar,404,Not Found,10.20.2.153Thread Group 1-497,text,false,,2247,19,19,48,0
+1570803563404,0,Debug PostProcessor,200,OK,10.20.2.153Thread Group 1-497,text,true,,1595,0,0,0,0
+1570803563373,33,getI18n(Common),200,OK,10.20.2.153Thread Group 1-484,,true,,529,19,19,33,0
+1570803563246,182,Add to cart,200,OK,10.20.2.153Thread Group 1-487,,true,,529,19,19,182,0
+1570803563406,36,Access an event,200,OK,10.20.2.153Thread Group 1-497,,true,,544,19,19,36,0
+1570803563406,49,getI18n(Common),200,OK,10.20.2.153Thread Group 1-484,text,true,,1685,19,19,49,0
+1570803563428,50,Add to cart,400,Bad Request,10.20.2.153Thread Group 1-487,text,false,,643,19,19,50,0
+1570803563442,50,Access an event,500,Internal Server Error,10.20.2.153Thread Group 1-497,text,false,,2983,19,19,49,0
+1570803563492,0,Debug PostProcessor,200,OK,10.20.2.153Thread Group 1-497,text,true,,1581,0,0,0,0
+1570803563455,44,getCart,200,OK,10.20.2.153Thread Group 1-484,text,true,,1015,19,19,44,0
+1570803563499,0,Access calendar,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Illegal character in path at index 56: https://staging1.ovationtix.com/ci/api/rest/Production(${prodId})/performance,10.20.2.153Thread Group 1-484,text,false,,1228,19,19,0,0
+1570803563500,0,Access calendar,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Illegal character in path at index 56: https://staging1.ovationtix.com/ci/api/rest/Production(${prodId})/performance,10.20.2.153Thread Group 1-484,text,false,,2713,19,19,0,0
+1570803563500,0,Debug PostProcessor,200,OK,10.20.2.153Thread Group 1-484,text,true,,1485,0,0,0,0
+1570803563501,36,Access an event,200,OK,10.20.2.153Thread Group 1-484,,true,,544,20,20,36,0
+1570803563494,50,getClientContext,200,OK,10.20.2.153Thread Group 1-497,text,true,,3674,20,20,50,0
+1570803563544,0,Debug PostProcessor,200,OK,10.20.2.153Thread Group 1-497,text,true,,1577,0,0,0,0
+1570803557931,607,Access calendar and event ,,"Number of samples in transaction : 12, number of failing samples : 2",10.20.2.153Thread Group 1-497,,false,,15933,20,20,606,5007
+1570803563537,49,Access an event,500,Internal Server Error,10.20.2.153Thread Group 1-484,text,false,,2949,20,20,49,0
+1570803563586,0,Debug PostProcessor,200,OK,10.20.2.153Thread Group 1-484,text,true,,1547,0,0,0,0
+1570803563590,55,getClientContext,200,OK,10.20.2.153Thread Group 1-484,text,true,,3640,20,20,53,0
+1570803563645,0,Debug PostProcessor,200,OK,10.20.2.153Thread Group 1-484,text,true,,1543,0,0,0,0
+1570803558122,515,Access calendar and event ,,"Number of samples in transaction : 12, number of failing samples : 3",10.20.2.153Thread Group 1-484,,false,,17030,20,20,513,5009
+1570803563882,128,1 /ci/api/rest/Cart,200,OK,10.20.2.153Thread Group 1-500,,true,,529,20,20,128,0
+1570803564010,63,2 /ci/api/rest/Cart,200,OK,10.20.2.153Thread Group 1-500,text,true,,918,20,20,63,0
+1570803563926,184,getClientContext,200,OK,10.20.2.153Thread Group 1-490,,true,,606,20,20,184,0
+1570803563987,136,1 /ci/api/rest/Cart,200,OK,10.20.2.153Thread Group 1-487,,true,,529,20,20,136,0
+1570803564110,46,getI18n(FormError),200,OK,10.20.2.153Thread Group 1-490,,true,,529,20,20,46,0
+1570803564123,53,2 /ci/api/rest/Cart,200,OK,10.20.2.153Thread Group 1-487,text,true,,918,20,20,53,0
+1570803564156,58,getI18n(FormError),200,OK,10.20.2.153Thread Group 1-490,text,true,,1063,20,20,58,0
+1570803564110,124,Add to cart,200,OK,10.20.2.153Thread Group 1-493,,true,,529,20,20,124,0
+1570803564214,48,getCart,200,OK,10.20.2.153Thread Group 1-490,,true,,529,20,20,48,0
+1570803564234,38,Add to cart,400,Bad Request,10.20.2.153Thread Group 1-493,text,false,,643,20,20,38,0
+1570803564262,45,getI18n(Common),200,OK,10.20.2.153Thread Group 1-490,,true,,529,20,20,45,0
+1570803564307,61,getI18n(Common),200,OK,10.20.2.153Thread Group 1-490,text,true,,1685,20,20,61,0
+1570803564368,56,getCart,200,OK,10.20.2.153Thread Group 1-490,text,true,,1015,20,20,56,0
+1570803564424,46,Access calendar,200,OK,10.20.2.153Thread Group 1-490,,true,,529,20,20,46,0
+1570803564471,61,Access calendar,404,Not Found,10.20.2.153Thread Group 1-490,text,false,,2248,20,20,60,0
+1570803564532,0,Debug PostProcessor,200,OK,10.20.2.153Thread Group 1-490,text,true,,1596,0,0,0,0
+1570803564535,56,Access an event,200,OK,10.20.2.153Thread Group 1-490,,true,,544,20,20,56,0
+1570803564591,61,Access an event,500,Internal Server Error,10.20.2.153Thread Group 1-490,text,false,,2982,20,20,61,0
+1570803564652,0,Debug PostProcessor,200,OK,10.20.2.153Thread Group 1-490,text,true,,1580,0,0,0,0
+1570803564654,63,getClientContext,200,OK,10.20.2.153Thread Group 1-490,text,true,,3674,20,20,62,0
+1570803564716,1,Debug PostProcessor,200,OK,10.20.2.153Thread Group 1-490,text,true,,1577,0,0,0,0
+1570803558926,785,Access calendar and event ,,"Number of samples in transaction : 12, number of failing samples : 2",10.20.2.153Thread Group 1-490,,false,,15933,20,20,783,5007
+1570803564778,151,1 /ci/api/rest/Cart,200,OK,10.20.2.153Thread Group 1-493,,true,,529,20,20,151,0
+1570803564929,51,2 /ci/api/rest/Cart,200,OK,10.20.2.153Thread Group 1-493,text,true,,918,20,20,50,0
+1570803564923,126,getClientContext,200,OK,10.20.2.153Thread Group 1-483,,true,,606,20,20,126,0
+1570803564913,138,getClientContext,200,OK,10.20.2.153Thread Group 1-496,,true,,606,20,20,138,0
+1570803565049,32,getI18n(FormError),200,OK,10.20.2.153Thread Group 1-483,,true,,529,20,20,32,0
+1570803565051,35,getI18n(FormError),200,OK,10.20.2.153Thread Group 1-496,,true,,529,20,20,35,0
+1570803565081,54,getI18n(FormError),200,OK,10.20.2.153Thread Group 1-483,text,true,,1063,20,20,54,0
+1570803565087,52,getI18n(FormError),200,OK,10.20.2.153Thread Group 1-496,text,true,,1063,20,20,52,0
+1570803565135,32,getCart,200,OK,10.20.2.153Thread Group 1-483,,true,,529,20,20,32,0
+1570803564991,179,Add to cart,200,OK,10.20.2.153Thread Group 1-499,,true,,529,20,20,179,0
+1570803565139,35,getCart,200,OK,10.20.2.153Thread Group 1-496,,true,,529,20,20,35,0
+1570803565167,35,getI18n(Common),200,OK,10.20.2.153Thread Group 1-483,,true,,529,20,20,35,0
+1570803565174,35,getI18n(Common),200,OK,10.20.2.153Thread Group 1-496,,true,,529,20,20,35,0
+1570803565170,53,Add to cart,400,Bad Request,10.20.2.153Thread Group 1-499,text,false,,643,20,20,53,0
+1570803565202,44,getI18n(Common),200,OK,10.20.2.153Thread Group 1-483,text,true,,1685,20,20,44,0
+1570803565224,47,getI18n(Common),200,OK,10.20.2.153Thread Group 1-496,text,true,,1685,20,20,47,0
+1570803565246,44,getCart,200,OK,10.20.2.153Thread Group 1-483,text,true,,1015,20,20,44,0
+1570803565290,0,Access calendar,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Illegal character in path at index 56: https://staging1.ovationtix.com/ci/api/rest/Production(${prodId})/performance,10.20.2.153Thread Group 1-483,text,false,,1228,20,20,0,0
+1570803565290,0,Access calendar,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Illegal character in path at index 56: https://staging1.ovationtix.com/ci/api/rest/Production(${prodId})/performance,10.20.2.153Thread Group 1-483,text,false,,2713,20,20,0,0
+1570803565290,0,Debug PostProcessor,200,OK,10.20.2.153Thread Group 1-483,text,true,,1485,0,0,0,0
+1570803565271,49,getCart,200,OK,10.20.2.153Thread Group 1-496,text,true,,1015,20,20,49,0
+1570803565292,32,Access an event,200,OK,10.20.2.153Thread Group 1-483,,true,,544,21,21,32,0
+1570803565320,36,Access calendar,200,OK,10.20.2.153Thread Group 1-496,,true,,529,21,21,36,0
+1570803565324,46,Access an event,500,Internal Server Error,10.20.2.153Thread Group 1-483,text,false,,2949,21,21,46,0
+1570803565370,0,Debug PostProcessor,200,OK,10.20.2.153Thread Group 1-483,text,true,,1547,0,0,0,0
+1570803565241,131,Add to cart,200,OK,10.20.2.153Thread Group 1-486,,true,,529,21,21,131,0
+1570803565356,51,Access calendar,404,Not Found,10.20.2.153Thread Group 1-496,text,false,,2248,21,21,51,0
+1570803565407,0,Debug PostProcessor,200,OK,10.20.2.153Thread Group 1-496,text,true,,1596,0,0,0,0
+1570803565372,39,Add to cart,400,Bad Request,10.20.2.153Thread Group 1-486,text,false,,643,21,21,39,0
+1570803565372,50,getClientContext,200,OK,10.20.2.153Thread Group 1-483,text,true,,3640,21,21,49,0
+1570803565422,0,Debug PostProcessor,200,OK,10.20.2.153Thread Group 1-483,text,true,,1543,0,0,0,0
+1570803559922,495,Access calendar and event ,,"Number of samples in transaction : 12, number of failing samples : 3",10.20.2.153Thread Group 1-483,,false,,17030,21,21,494,5007
+1570803565409,38,Access an event,200,OK,10.20.2.153Thread Group 1-496,,true,,544,21,21,38,0
+1570803565447,51,Access an event,500,Internal Server Error,10.20.2.153Thread Group 1-496,text,false,,2983,21,21,51,0
+1570803565498,0,Debug PostProcessor,200,OK,10.20.2.153Thread Group 1-496,text,true,,1581,0,0,0,0
+1570803565501,52,getClientContext,200,OK,10.20.2.153Thread Group 1-496,text,true,,3674,21,21,51,0
+1570803565553,0,Debug PostProcessor,200,OK,10.20.2.153Thread Group 1-496,text,true,,1577,0,0,0,0
+1570803559912,619,Access calendar and event ,,"Number of samples in transaction : 12, number of failing samples : 2",10.20.2.153Thread Group 1-496,,false,,15934,21,21,618,5027
+1570803565584,124,getClientContext,200,OK,10.20.2.153Thread Group 1-489,,true,,606,21,21,124,0
+1570803565723,34,getI18n(FormError),200,OK,10.20.2.153Thread Group 1-489,,true,,529,21,21,34,0
+1570803565758,50,getI18n(FormError),200,OK,10.20.2.153Thread Group 1-489,text,true,,1063,21,21,49,0
+1570803565808,36,getCart,200,OK,10.20.2.153Thread Group 1-489,,true,,529,21,21,36,0
+1570803565732,143,1 /ci/api/rest/Cart,200,OK,10.20.2.153Thread Group 1-499,,true,,529,21,21,143,0
+1570803565844,34,getI18n(Common),200,OK,10.20.2.153Thread Group 1-489,,true,,529,21,21,34,0
+1570803565876,49,2 /ci/api/rest/Cart,200,OK,10.20.2.153Thread Group 1-499,text,true,,918,21,21,49,0
+1570803565878,49,getI18n(Common),200,OK,10.20.2.153Thread Group 1-489,text,true,,1685,21,21,49,0
+1570803565928,42,getCart,200,OK,10.20.2.153Thread Group 1-489,text,true,,1015,21,21,42,0
+1570803565970,34,Access calendar,200,OK,10.20.2.153Thread Group 1-489,,true,,529,21,21,34,0
+1570803566005,48,Access calendar,404,Not Found,10.20.2.153Thread Group 1-489,text,false,,2248,21,21,47,0
+1570803566053,0,Debug PostProcessor,200,OK,10.20.2.153Thread Group 1-489,text,true,,1596,0,0,0,0
+1570803565919,147,1 /ci/api/rest/Cart,200,OK,10.20.2.153Thread Group 1-486,,true,,529,21,21,147,0
+1570803566055,37,Access an event,200,OK,10.20.2.153Thread Group 1-489,,true,,544,21,21,37,0
+1570803566066,53,2 /ci/api/rest/Cart,200,OK,10.20.2.153Thread Group 1-486,text,true,,918,21,21,53,0
+1570803566093,49,Access an event,500,Internal Server Error,10.20.2.153Thread Group 1-489,text,false,,2983,21,21,48,0
+1570803566142,0,Debug PostProcessor,200,OK,10.20.2.153Thread Group 1-489,text,true,,1581,0,0,0,0
+1570803566025,139,Add to cart,200,OK,10.20.2.153Thread Group 1-492,,true,,529,21,21,139,0
+1570803566164,46,Add to cart,400,Bad Request,10.20.2.153Thread Group 1-492,text,false,,643,21,21,46,0
+1570803566150,63,getClientContext,200,OK,10.20.2.153Thread Group 1-489,text,true,,3674,21,21,60,0
+1570803566213,0,Debug PostProcessor,200,OK,10.20.2.153Thread Group 1-489,text,true,,1577,0,0,0,0
+1570803560582,600,Access calendar and event ,,"Number of samples in transaction : 12, number of failing samples : 2",10.20.2.153Thread Group 1-489,,false,,15934,21,21,594,5038
+1570803566417,156,getClientContext,200,OK,10.20.2.153Thread Group 1-495,,true,,606,21,21,156,0
+1570803566573,35,getI18n(FormError),200,OK,10.20.2.153Thread Group 1-495,,true,,529,21,21,35,0
+1570803566608,71,getI18n(FormError),200,OK,10.20.2.153Thread Group 1-495,text,true,,1063,21,21,71,0
+1570803566679,37,getCart,200,OK,10.20.2.153Thread Group 1-495,,true,,529,21,21,37,0
+1570803566718,40,getI18n(Common),200,OK,10.20.2.153Thread Group 1-495,,true,,529,21,21,40,0
+1570803566758,48,getI18n(Common),200,OK,10.20.2.153Thread Group 1-495,text,true,,1685,21,21,48,0
+1570803566807,55,getCart,200,OK,10.20.2.153Thread Group 1-495,text,true,,1015,21,21,55,0
+1570803566862,38,Access calendar,200,OK,10.20.2.153Thread Group 1-495,,true,,529,21,21,38,0
+1570803566723,183,getClientContext,200,OK,10.20.2.153Thread Group 1-482,,true,,606,21,21,183,0
+1570803566723,184,1 /ci/api/rest/Cart,200,OK,10.20.2.153Thread Group 1-492,,true,,529,21,21,184,0
+1570803566906,44,getI18n(FormError),200,OK,10.20.2.153Thread Group 1-482,,true,,529,21,21,44,0
+1570803566900,50,Access calendar,404,Not Found,10.20.2.153Thread Group 1-495,text,false,,2248,21,21,50,0
+1570803566950,0,Debug PostProcessor,200,OK,10.20.2.153Thread Group 1-495,text,true,,1596,0,0,0,0
+1570803566907,60,2 /ci/api/rest/Cart,200,OK,10.20.2.153Thread Group 1-492,text,true,,918,21,21,60,0
+1570803566831,141,Add to cart,200,OK,10.20.2.153Thread Group 1-485,,true,,529,21,21,141,0
+1570803566952,37,Access an event,200,OK,10.20.2.153Thread Group 1-495,,true,,544,21,21,37,0
+1570803566865,137,Add to cart,200,OK,10.20.2.153Thread Group 1-498,,true,,529,21,21,137,0
+1570803566950,63,getI18n(FormError),200,OK,10.20.2.153Thread Group 1-482,text,true,,1063,21,21,63,0
+1570803566972,41,Add to cart,400,Bad Request,10.20.2.153Thread Group 1-485,text,false,,643,21,21,41,0
+1570803566989,46,Access an event,500,Internal Server Error,10.20.2.153Thread Group 1-495,text,false,,2983,21,21,46,0
+1570803567035,0,Debug PostProcessor,200,OK,10.20.2.153Thread Group 1-495,text,true,,1581,0,0,0,0
+1570803567002,58,Add to cart,400,Bad Request,10.20.2.153Thread Group 1-498,text,false,,643,21,21,58,0
+1570803567013,51,getCart,200,OK,10.20.2.153Thread Group 1-482,,true,,529,21,21,51,0
+1570803567037,62,getClientContext,200,OK,10.20.2.153Thread Group 1-495,text,true,,3674,21,21,59,0
+1570803567099,0,Debug PostProcessor,200,OK,10.20.2.153Thread Group 1-495,text,true,,1577,0,0,0,0
+1570803561417,675,Access calendar and event ,,"Number of samples in transaction : 12, number of failing samples : 2",10.20.2.153Thread Group 1-495,,false,,15934,21,21,672,5009
+1570803567064,47,getI18n(Common),200,OK,10.20.2.153Thread Group 1-482,,true,,529,21,21,47,0
+1570803567111,63,getI18n(Common),200,OK,10.20.2.153Thread Group 1-482,text,true,,1685,22,22,63,0
+1570803567174,56,getCart,200,OK,10.20.2.153Thread Group 1-482,text,true,,1015,22,22,56,0
+1570803567230,0,Access calendar,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Illegal character in path at index 56: https://staging1.ovationtix.com/ci/api/rest/Production(${prodId})/performance,10.20.2.153Thread Group 1-482,text,false,,1228,22,22,0,0
+1570803567230,0,Access calendar,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Illegal character in path at index 56: https://staging1.ovationtix.com/ci/api/rest/Production(${prodId})/performance,10.20.2.153Thread Group 1-482,text,false,,2713,22,22,0,0
+1570803567230,0,Debug PostProcessor,200,OK,10.20.2.153Thread Group 1-482,text,true,,1485,0,0,0,0
+1570803567233,47,Access an event,200,OK,10.20.2.153Thread Group 1-482,,true,,544,22,22,47,0
+1570803567281,59,Access an event,500,Internal Server Error,10.20.2.153Thread Group 1-482,text,false,,2949,22,22,58,0
+1570803567339,1,Debug PostProcessor,200,OK,10.20.2.153Thread Group 1-482,text,true,,1547,0,0,0,0
+1570803567347,67,getClientContext,200,OK,10.20.2.153Thread Group 1-482,text,true,,3640,22,22,65,0
+1570803567414,0,Debug PostProcessor,200,OK,10.20.2.153Thread Group 1-482,text,true,,1543,0,0,0,0
+1570803561722,680,Access calendar and event ,,"Number of samples in transaction : 12, number of failing samples : 3",10.20.2.153Thread Group 1-482,,false,,17030,22,22,677,5016
+1570803567441,145,getClientContext,200,OK,10.20.2.153Thread Group 1-488,,true,,606,22,22,145,0
+1570803567587,71,getI18n(FormError),200,OK,10.20.2.153Thread Group 1-488,,true,,529,22,22,71,0
+1570803567521,175,1 /ci/api/rest/Cart,200,OK,10.20.2.153Thread Group 1-485,,true,,529,22,22,175,0
+1570803567658,50,getI18n(FormError),200,OK,10.20.2.153Thread Group 1-488,text,true,,1063,22,22,50,0
+1570803567708,36,getCart,200,OK,10.20.2.153Thread Group 1-488,,true,,529,22,22,36,0
+1570803567697,50,2 /ci/api/rest/Cart,200,OK,10.20.2.153Thread Group 1-485,text,true,,918,22,22,50,0
+1570803567565,195,1 /ci/api/rest/Cart,200,OK,10.20.2.153Thread Group 1-498,,true,,529,22,22,195,0
+1570803567745,37,getI18n(Common),200,OK,10.20.2.153Thread Group 1-488,,true,,529,22,22,37,0
+1570803567761,51,2 /ci/api/rest/Cart,200,OK,10.20.2.153Thread Group 1-498,text,true,,918,22,22,51,0
+1570803567782,45,getI18n(Common),200,OK,10.20.2.153Thread Group 1-488,text,true,,1685,22,22,45,0
+1570803567828,46,getCart,200,OK,10.20.2.153Thread Group 1-488,text,true,,1015,22,22,46,0
+1570803567733,178,Add to cart,200,OK,10.20.2.153Thread Group 1-491,,true,,529,22,22,178,0
+1570803567874,37,Access calendar,200,OK,10.20.2.153Thread Group 1-488,,true,,529,22,22,37,0
+1570803567911,52,Add to cart,400,Bad Request,10.20.2.153Thread Group 1-491,text,false,,643,22,22,51,0
+1570803567911,52,Access calendar,404,Not Found,10.20.2.153Thread Group 1-488,text,false,,2248,22,22,51,0
+1570803567963,0,Debug PostProcessor,200,OK,10.20.2.153Thread Group 1-488,text,true,,1596,0,0,0,0
+1570803567965,41,Access an event,200,OK,10.20.2.153Thread Group 1-488,,true,,544,22,22,41,0
+1570803568006,51,Access an event,500,Internal Server Error,10.20.2.153Thread Group 1-488,text,false,,2983,22,22,50,0
+1570803568056,1,Debug PostProcessor,200,OK,10.20.2.153Thread Group 1-488,text,true,,1581,0,0,0,0
+1570803568059,51,getClientContext,200,OK,10.20.2.153Thread Group 1-488,text,true,,3674,22,22,51,0
+1570803568110,0,Debug PostProcessor,200,OK,10.20.2.153Thread Group 1-488,text,true,,1577,0,0,0,0
+1570803562441,662,Access calendar and event ,,"Number of samples in transaction : 12, number of failing samples : 2",10.20.2.153Thread Group 1-488,,false,,15934,22,22,660,5007
+1570803568192,137,getClientContext,200,OK,10.20.2.153Thread Group 1-494,,true,,606,22,22,137,0
+1570803568329,35,getI18n(FormError),200,OK,10.20.2.153Thread Group 1-494,,true,,529,22,22,35,0
+1570803568364,51,getI18n(FormError),200,OK,10.20.2.153Thread Group 1-494,text,true,,1063,22,22,51,0
+1570803568415,34,getCart,200,OK,10.20.2.153Thread Group 1-494,,true,,529,22,22,34,0
+1570803568450,37,getI18n(Common),200,OK,10.20.2.153Thread Group 1-494,,true,,529,22,22,37,0
+1570803568487,48,getI18n(Common),200,OK,10.20.2.153Thread Group 1-494,text,true,,1685,22,22,48,0
+1570803568535,66,getCart,200,OK,10.20.2.153Thread Group 1-494,text,true,,1015,22,22,66,0
+1570803568468,156,1 /ci/api/rest/Cart,200,OK,10.20.2.153Thread Group 1-491,,true,,529,22,22,156,0
+1570803568601,36,Access calendar,200,OK,10.20.2.153Thread Group 1-494,,true,,529,22,22,36,0
+1570803568625,52,2 /ci/api/rest/Cart,200,OK,10.20.2.153Thread Group 1-491,text,true,,918,22,22,52,0
+1570803568637,49,Access calendar,404,Not Found,10.20.2.153Thread Group 1-494,text,false,,2248,22,22,49,0
+1570803568686,0,Debug PostProcessor,200,OK,10.20.2.153Thread Group 1-494,text,true,,1596,0,0,0,0
+1570803568547,144,Add to cart,200,OK,10.20.2.153Thread Group 1-497,,true,,529,22,22,144,0
+1570803568524,179,getClientContext,200,OK,10.20.2.153Thread Group 1-481,,true,,606,22,22,179,0
+1570803568688,40,Access an event,200,OK,10.20.2.153Thread Group 1-494,,true,,544,22,22,40,0
+1570803568691,41,Add to cart,400,Bad Request,10.20.2.153Thread Group 1-497,text,false,,643,22,22,41,0
+1570803568704,64,getI18n(FormError),200,OK,10.20.2.153Thread Group 1-481,,true,,529,22,22,64,0
+1570803568728,49,Access an event,500,Internal Server Error,10.20.2.153Thread Group 1-494,text,false,,2983,22,22,48,0
+1570803568777,0,Debug PostProcessor,200,OK,10.20.2.153Thread Group 1-494,text,true,,1581,0,0,0,0
+1570803568650,141,Add to cart,200,OK,10.20.2.153Thread Group 1-484,,true,,529,22,22,141,0
+1570803568768,61,getI18n(FormError),200,OK,10.20.2.153Thread Group 1-481,text,true,,1063,22,22,61,0
+1570803568778,53,getClientContext,200,OK,10.20.2.153Thread Group 1-494,text,true,,3672,22,22,53,0
+1570803568831,0,Debug PostProcessor,200,OK,10.20.2.153Thread Group 1-494,text,true,,1575,0,0,0,0
+1570803563191,635,Access calendar and event ,,"Number of samples in transaction : 12, number of failing samples : 2",10.20.2.153Thread Group 1-494,,false,,15932,22,22,634,5006
+1570803568791,44,Add to cart,400,Bad Request,10.20.2.153Thread Group 1-484,text,false,,643,22,22,44,0
+1570803568830,45,getCart,200,OK,10.20.2.153Thread Group 1-481,,true,,529,22,22,45,0
+1570803568875,47,getI18n(Common),200,OK,10.20.2.153Thread Group 1-481,,true,,529,22,22,47,0
+1570803568923,60,getI18n(Common),200,OK,10.20.2.153Thread Group 1-481,text,true,,1685,20,20,60,0
+1570803568983,56,getCart,200,OK,10.20.2.153Thread Group 1-481,text,true,,1015,16,16,56,0
+1570803569039,0,Access calendar,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Illegal character in path at index 56: https://staging1.ovationtix.com/ci/api/rest/Production(${prodId})/performance,10.20.2.153Thread Group 1-481,text,false,,1228,14,14,0,0
+1570803569041,0,Access calendar,Non HTTP response code: java.net.URISyntaxException,Non HTTP response message: Illegal character in path at index 56: https://staging1.ovationtix.com/ci/api/rest/Production(${prodId})/performance,10.20.2.153Thread Group 1-481,text,false,,2712,16,16,0,0
+1570803569041,0,Debug PostProcessor,200,OK,10.20.2.153Thread Group 1-481,text,true,,1484,0,0,0,0
+1570803569044,47,Access an event,200,OK,10.20.2.153Thread Group 1-481,,true,,544,7,7,47,0
+1570803569091,61,Access an event,Non HTTP response code: javax.net.ssl.SSLException,Non HTTP response message: Socket closed,10.20.2.153Thread Group 1-481,text,false,,5130,7,7,0,0
+1570803569152,0,Debug PostProcessor,200,OK,10.20.2.153Thread Group 1-481,text,true,,1546,0,0,0,0

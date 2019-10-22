@@ -1,0 +1,8 @@
+execution:
+iterations: 1
+concurrency: 2
+ramp-up: 0s
+scenario:
+script: newtestseriesguest.jmx
+reporting:-module: final_stats
+dump- xml: stats.xml
